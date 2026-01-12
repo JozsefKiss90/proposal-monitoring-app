@@ -1,0 +1,27 @@
+# Core Python
+requests
+beautifulsoup4
+lxml
+
+# GPT-4 integration
+openai
+
+# Environment/config
+python-dotenv
+
+# CLI and data manipulation
+pydantic
+tqdm
+
+# Optional: local JSON handling/logging
+loguru
+
+# If using async in future (e.g., for API calls)
+httpx
+requests
+# Future database work (commented for now)
+# sqlalchemy
+# psycopg2-binary
+selenium
+webdriver-manager
+playwright 

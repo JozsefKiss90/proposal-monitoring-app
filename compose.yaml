@@ -1,0 +1,31 @@
+version: "3.9"
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: docker/app.dockerfile
+    container_name: proposal_monitor
+    environment:
+      - DATABASE_URL=postgresql://user:pass@db:5432/proposals
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+    volumes:
+      - ./app:/app/app      # Mount only your source code directory
+    depends_on:
+      - db
+    command: tail -f /dev/null   # Keep container running for dev purposes
+
+  db:
+    image: postgres:15
+    container_name: proposals_db
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: pass
+      POSTGRES_DB: proposals
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
