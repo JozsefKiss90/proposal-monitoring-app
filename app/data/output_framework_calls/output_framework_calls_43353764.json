@@ -1,0 +1,4532 @@
+[
+  {
+    "apiVersion": "2.143.3",
+    "reference": "50126071TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T05-SCHOOL-STEM",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "School Education: STEM Education Centres",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "School Education: STEM Education Centres",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-POL-EXP-T05-SCHOOL-STEM"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-04-08T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "School Education: STEM Education Centres"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T05-SCHOOL-STEM"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T05-SCHOOL-STEM"
+      ],
+      "callccm2Id": [
+        "50126191"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50126071TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "50126058TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T01-DIGITAL-CONTENT",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Digital Education Content: success factors in decision making and use by teachers, trainers and school/institution leaders",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Digital Education Content: success factors in decision making and use by teachers, trainers and school/institution leaders",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-POL-EXP-T01-DIGITAL-CONTENT"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-04-08T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Digital Education Content: success factors in decision making and use by teachers, trainers and school/institution leaders"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T01-DIGITAL-CONTENT"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T01-DIGITAL-CONTENT"
+      ],
+      "callccm2Id": [
+        "50126191"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50126058TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "50126111TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T02-DIGITAL-ETHICSAI",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Digital Education: Public-private partnerships for ethical design, development and use of Artificial Intelligence tools in education and training",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Digital Education: Public-private partnerships for ethical design, development and use of Artificial Intelligence tools in education and training",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-POL-EXP-T02-DIGITAL-ETHICSAI"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-04-08T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Digital Education: Public-private partnerships for ethical design, development and use of Artificial Intelligence tools in education and training"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T02-DIGITAL-ETHICSAI"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T02-DIGITAL-ETHICSAI"
+      ],
+      "callccm2Id": [
+        "50126191"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50126111TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "50126124TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T08-VET-QUALIFICATIONS",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Vocational Education and Training: Improving transparency and recognition of VET qualifications",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Vocational Education and Training: Improving transparency and recognition of VET qualifications",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-POL-EXP-T08-VET-QUALIFICATIONS"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-04-08T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Vocational Education and Training: Improving transparency and recognition of VET qualifications"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T08-VET-QUALIFICATIONS"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T08-VET-QUALIFICATIONS"
+      ],
+      "callccm2Id": [
+        "50126191"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50126124TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "50126097TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T07-VET-BS",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Vocational Education and Training: Developing basic skills in Vocational Education and Training",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Vocational Education and Training: Developing basic skills in Vocational Education and Training",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-POL-EXP-T07-VET-BS"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-04-08T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Vocational Education and Training: Developing basic skills in Vocational Education and Training"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T07-VET-BS"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T07-VET-BS"
+      ],
+      "callccm2Id": [
+        "50126191"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50126097TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "50126084TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T06-SCHOOL-BS",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "School Education: Proficiency in basic skills",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "School Education: Proficiency in basic skills",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-POL-EXP-T06-SCHOOL-BS"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-04-08T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "School Education: Proficiency in basic skills"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T06-SCHOOL-BS"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T06-SCHOOL-BS"
+      ],
+      "callccm2Id": [
+        "50126191"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50126084TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "50126176TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T04-MICRO-CRED",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Micro-credentials – focus on eco-systems",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Micro-credentials – focus on eco-systems",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-POL-EXP-T04-MICRO-CRED"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-04-08T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Micro-credentials – focus on eco-systems"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T04-MICRO-CRED"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T04-MICRO-CRED"
+      ],
+      "callccm2Id": [
+        "50126191"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50126176TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "50126162TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T03-DIGITAL-BS",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Digital Education: AI-powered Personalised Learning Pathways for Basic Skills",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Digital Education: AI-powered Personalised Learning Pathways for Basic Skills",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-POL-EXP-T03-DIGITAL-BS"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-04-08T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Digital Education: AI-powered Personalised Learning Pathways for Basic Skills"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T03-DIGITAL-BS"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T03-DIGITAL-BS"
+      ],
+      "callccm2Id": [
+        "50126191"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50126162TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "50126138TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T09-ADULT-PS",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Adult Education: Support to the Regional Skills Partnerships in the Pact for Skills",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Adult Education: Support to the Regional Skills Partnerships in the Pact for Skills",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-POL-EXP-T09-ADULT-PS"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-04-08T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Adult Education: Support to the Regional Skills Partnerships in the Pact for Skills"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T09-ADULT-PS"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T09-ADULT-PS"
+      ],
+      "callccm2Id": [
+        "50126191"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50126138TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "50126150TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T10-ADULT-EMPOWER",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Adult Education: Motivation in Motion: Empowering Adults to Up- and Reskilling",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Adult Education: Motivation in Motion: Empowering Adults to Up- and Reskilling",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-POL-EXP-T10-ADULT-EMPOWER"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-04-08T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Adult Education: Motivation in Motion: Empowering Adults to Up- and Reskilling"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T10-ADULT-EMPOWER"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-POL-EXP-T10-ADULT-EMPOWER"
+      ],
+      "callccm2Id": [
+        "50126191"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50126150TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2026-01-06T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "50125610TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2026-SSCP",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Small-scale Partnerships",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Small-scale Partnerships",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-SPORT-2026-SSCP"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-18T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-05T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Small-scale Partnerships"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2026-SSCP"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2026-SSCP"
+      ],
+      "callccm2Id": [
+        "50125691"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50125610TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-18T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "50125670TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2026-SNCESE",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Not-for-profit European sport events",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Not-for-profit European sport events",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-SPORT-2026-SNCESE"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-18T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-05T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Not-for-profit European sport events"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2026-SNCESE"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2026-SNCESE"
+      ],
+      "callccm2Id": [
+        "50125691"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50125670TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-18T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "50125639TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2026-SCP",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Cooperation Partnerships",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Cooperation Partnerships",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-SPORT-2026-SCP"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-18T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-05T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Cooperation Partnerships"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2026-SCP"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2026-SCP"
+      ],
+      "callccm2Id": [
+        "50125691"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50125639TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-18T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49838737TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2025-PE-EUED",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Partnerships for Excellence: European Universities – European Degree exploratory action",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Partnerships for Excellence: European Universities – European Degree exploratory action",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2025-PE-EUED"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-17T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-17T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Partnerships for Excellence: European Universities – European Degree exploratory  action"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2025-PE-EUED"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2025-PE-EUED"
+      ],
+      "callccm2Id": [
+        "49838773"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49838737TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-17T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49950162TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2026-CB",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity Building in the Field of Sport",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity Building in the Field of Sport",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-SPORT-2026-CB"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-10T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-05T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity Building in the Field of Sport"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2026-CB"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2026-CB"
+      ],
+      "callccm2Id": [
+        "49950191"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49950162TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-10T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49769194TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PI-ALL-INNO-STEM",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Alliances for STEM Skills Foundries",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Alliances for STEM Skills Foundries",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-PI-ALL-INNO-STEM"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-10T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Alliances for STEM Skills Foundries"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PI-ALL-INNO-STEM"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PI-ALL-INNO-STEM"
+      ],
+      "callccm2Id": [
+        "49769207"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49769194TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49669831TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PEX-COVE",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Centres of Vocational Excellence",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Centres of Vocational Excellence",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-PEX-COVE"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-09-03T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Centres of Vocational Excellence"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PEX-COVE"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PEX-COVE"
+      ],
+      "callccm2Id": [
+        "49669900"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49669831TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49769162TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PI-ALL-INNO-EDU-ENTERP",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Alliances for Education and Enterprises",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Alliances for Education and Enterprises",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-PI-ALL-INNO-EDU-ENTERP"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-10T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Alliances for Education and Enterprises"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PI-ALL-INNO-EDU-ENTERP"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PI-ALL-INNO-EDU-ENTERP"
+      ],
+      "callccm2Id": [
+        "49769207"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49769162TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49769116TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PI-ALL-INNO-BLUEPRINT",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Alliances for Sectoral Cooperation on Skills (implementing the ‘Blueprint')",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Alliances for Sectoral Cooperation on Skills (implementing the ‘Blueprint')",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-PI-ALL-INNO-BLUEPRINT"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-10T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Alliances for Sectoral Cooperation on Skills (implementing the ‘Blueprint')"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PI-ALL-INNO-BLUEPRINT"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PI-ALL-INNO-BLUEPRINT"
+      ],
+      "callccm2Id": [
+        "49769207"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49769116TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49473659TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PCOOP-ENGO",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Partnerships for Cooperation - Cooperation Partnerships in the field of education and training submitted by European NGOs",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Partnerships for Cooperation - Cooperation Partnerships in the field of education and training submitted by European NGOs",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-PCOOP-ENGO"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-05T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Partnerships for Cooperation - Cooperation Partnerships in the field of education and training submitted by European NGOs"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PCOOP-ENGO"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PCOOP-ENGO"
+      ],
+      "callccm2Id": [
+        "49473677"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49473659TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49889686TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-11",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in Higher Education: Caribbean",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in Higher Education: Caribbean",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CBHE-REGION-11"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in Higher Education: Caribbean"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-11"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-11"
+      ],
+      "callccm2Id": [
+        "49890184"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49889686TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49889796TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-3",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in Higher Education: South Mediterranean",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in Higher Education: South Mediterranean",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CBHE-REGION-3"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in Higher Education: South Mediterranean"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-3"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-3"
+      ],
+      "callccm2Id": [
+        "49890184"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49889796TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49889961TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-7a",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in Higher Education: Middle East",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in Higher Education: Middle East",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CBHE-REGION-7a"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in Higher Education: Middle East"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-7a"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-7a"
+      ],
+      "callccm2Id": [
+        "49890184"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49889961TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49889906TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-6",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in Higher Education: Central Asia",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in Higher Education: Central Asia",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CBHE-REGION-6"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in Higher Education: Central Asia"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-6"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-6"
+      ],
+      "callccm2Id": [
+        "49890184"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49889906TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49889631TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-10",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in Higher Education: Latin America",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in Higher Education: Latin America",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CBHE-REGION-10"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in Higher Education: Latin America"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-10"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-10"
+      ],
+      "callccm2Id": [
+        "49890184"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49889631TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49889576TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-1",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in Higher Education: Western Balkans",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in Higher Education: Western Balkans",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CBHE-REGION-1"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in Higher Education: Western Balkans"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-1"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-1"
+      ],
+      "callccm2Id": [
+        "49890184"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49889576TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49889741TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-2",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in Higher Education: Neighbourhood East",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in Higher Education: Neighbourhood East",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CBHE-REGION-2"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in Higher Education: Neighbourhood East"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-2"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-2"
+      ],
+      "callccm2Id": [
+        "49890184"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49889741TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49485160TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-CB-WB",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity Building in the field of Youth in Western Balkans",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity Building in the field of Youth in Western Balkans",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-YOUTH-2026-CB-WB"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-26T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity Building in the field of Youth in Western Balkans"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-CB-WB"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-CB-WB"
+      ],
+      "callccm2Id": [
+        "49485275"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49485160TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49485244TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-CB-SMC",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity Building in the field of Youth in South Mediterranean Countries",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity Building in the field of Youth in South Mediterranean Countries",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-YOUTH-2026-CB-SMC"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-26T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity Building in the field of Youth in South Mediterranean Countries"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-CB-SMC"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-CB-SMC"
+      ],
+      "callccm2Id": [
+        "49485275"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49485244TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49485216TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-CB-NE",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity Building in the field of Youth in Neighborhood East",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity Building in the field of Youth in Neighborhood East",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-YOUTH-2026-CB-NE"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-26T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity Building in the field of Youth in Neighborhood East"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-CB-NE"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-CB-NE"
+      ],
+      "callccm2Id": [
+        "49485275"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49485216TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49485188TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-CB-SSA",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity Building in the field of Youth in Sub-Saharan Africa",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity Building in the field of Youth in Sub-Saharan Africa",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-YOUTH-2026-CB-SSA"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-26T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity Building in the field of Youth in Sub-Saharan Africa"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-CB-SSA"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-CB-SSA"
+      ],
+      "callccm2Id": [
+        "49485275"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49485188TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49890016TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-8a",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in Higher Education: Pacific",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in Higher Education: Pacific",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CBHE-REGION-8a"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in Higher Education: Pacific"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-8a"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-8a"
+      ],
+      "callccm2Id": [
+        "49890184"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49890016TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49889851TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-5a",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in Higher Education: Asia",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in Higher Education: Asia",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CBHE-REGION-5a"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in Higher Education: Asia"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-5a"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-5a"
+      ],
+      "callccm2Id": [
+        "49890184"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49889851TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49485117TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-YOUTH-TOG",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "European Youth Together 2026",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "European Youth Together 2026",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-YOUTH-2026-YOUTH-TOG"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-26T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "European Youth Together 2026"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-YOUTH-TOG"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-YOUTH-TOG"
+      ],
+      "callccm2Id": [
+        "49485153"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49485117TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49485067TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-PCOOP-ENGO",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Partnerships for Cooperation - Cooperation Partnerships in the field of Youth submitted by European NGOs 2026",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Partnerships for Cooperation - Cooperation Partnerships in the field of Youth submitted by European NGOs 2026",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-YOUTH-2026-PCOOP-ENGO"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-05T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Partnerships for Cooperation - Cooperation Partnerships in the field of Youth submitted by European NGOs 2026"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-PCOOP-ENGO"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2026-PCOOP-ENGO"
+      ],
+      "callccm2Id": [
+        "49485110"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49485067TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49732232TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-WB",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in VET in Western Balkans",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in VET in Western Balkans",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CB-VET-WB"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-26T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in VET in Western Balkans"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-WB"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-WB"
+      ],
+      "callccm2Id": [
+        "49732331"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49732232TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49890126TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-CROSS-REGIONAL",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in Higher Education: Cross-Regional",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in Higher Education: Cross-Regional",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CBHE-CROSS-REGIONAL"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in Higher Education: Cross-Regional"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-CROSS-REGIONAL"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-CROSS-REGIONAL"
+      ],
+      "callccm2Id": [
+        "49890184"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49890126TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49732135TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-NE",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in VET in Neighbourhood East",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in VET in Neighbourhood East",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CB-VET-NE"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-26T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in VET in Neighbourhood East"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-NE"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-NE"
+      ],
+      "callccm2Id": [
+        "49732331"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49732135TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49732183TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-CA",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in VET in Caribbean",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in VET in Caribbean",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CB-VET-CA"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-26T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in VET in Caribbean"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-CA"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-CA"
+      ],
+      "callccm2Id": [
+        "49732331"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49732183TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49732390TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-VIRT-EXCH-WB",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Erasmus+ Virtual Exchanges in Western Balkans",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Erasmus+ Virtual Exchanges in Western Balkans",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-VIRT-EXCH-WB"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-26T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Erasmus+ Virtual Exchanges in Western Balkans"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-VIRT-EXCH-WB"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-VIRT-EXCH-WB"
+      ],
+      "callccm2Id": [
+        "49732434"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49732390TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49890071TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-9",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in Higher Education: Sub-Saharan Africa",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in Higher Education: Sub-Saharan Africa",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CBHE-REGION-9"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in Higher Education: Sub-Saharan Africa"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-9"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CBHE-REGION-9"
+      ],
+      "callccm2Id": [
+        "49890184"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49890071TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49732087TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-LA",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in VET in Latin America",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in VET in Latin America",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CB-VET-LA"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-26T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in VET in Latin America"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-LA"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-LA"
+      ],
+      "callccm2Id": [
+        "49732331"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49732087TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49732373TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-VIRT-EXCH-SSA",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Erasmus+ Virtual Exchanges in Sub-Saharan Africa",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Erasmus+ Virtual Exchanges in Sub-Saharan Africa",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-VIRT-EXCH-SSA"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-26T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Erasmus+ Virtual Exchanges in Sub-Saharan Africa"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-VIRT-EXCH-SSA"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-VIRT-EXCH-SSA"
+      ],
+      "callccm2Id": [
+        "49732434"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49732373TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49732411TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-VIRT-EXCH-SMC",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Erasmus+ Virtual Exchanges in South Mediterranean Countries",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Erasmus+ Virtual Exchanges in South Mediterranean Countries",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-VIRT-EXCH-SMC"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-26T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Erasmus+ Virtual Exchanges in South Mediterranean Countries"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-VIRT-EXCH-SMC"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-VIRT-EXCH-SMC"
+      ],
+      "callccm2Id": [
+        "49732434"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49732411TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49732353TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-VIRT-EXCH-NE",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Erasmus+ Virtual Exchanges in Neighbourhood East",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Erasmus+ Virtual Exchanges in Neighbourhood East",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-VIRT-EXCH-NE"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-26T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Erasmus+ Virtual Exchanges in Neighbourhood East"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-VIRT-EXCH-NE"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-VIRT-EXCH-NE"
+      ],
+      "callccm2Id": [
+        "49732434"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49732353TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49732280TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-SMC",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in VET in South Mediterranean Countries",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in VET in South Mediterranean Countries",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CB-VET-SMC"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-26T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in VET in South Mediterranean Countries"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-SMC"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-SMC"
+      ],
+      "callccm2Id": [
+        "49732331"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49732280TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49732039TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-SSA",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Capacity building in VET in Sub-Saharan Africa",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Capacity building in VET in Sub-Saharan Africa",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-CB-VET-SSA"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-26T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Capacity building in VET in Sub-Saharan Africa"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-SSA"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-CB-VET-SSA"
+      ],
+      "callccm2Id": [
+        "49732331"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49732039TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49838702TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2025-PI-FORWARD-HE-EDPP",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "European Degree Pathway Projects",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "European Degree Pathway Projects",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2025-PI-FORWARD-HE-EDPP"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-03T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-03T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "European Degree Pathway Projects"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2025-PI-FORWARD-HE-EDPP"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2025-PI-FORWARD-HE-EDPP"
+      ],
+      "callccm2Id": [
+        "49838727"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49838702TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-03T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49838676TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2025-PI-FORWARD-HE-LD",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Leadership Development programme for higher education institutions’ leaders",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Leadership Development programme for higher education institutions’ leaders",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2025-PI-FORWARD-HE-LD"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-12-03T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-03T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Leadership Development programme for higher education institutions’ leaders"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2025-PI-FORWARD-HE-LD"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2025-PI-FORWARD-HE-LD"
+      ],
+      "callccm2Id": [
+        "49838727"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49838676TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-12-03T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49697515TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-HEI-TCH-RSCH-COE",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Jean Monnet Actions in the field of Higher Education: Centers of Excellence",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Jean Monnet Actions in the field of Higher Education: Centers of Excellence",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-JMO-2026-HEI-TCH-RSCH-COE"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-03T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Jean Monnet Actions in the field of Higher Education: Centers of Excellence"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-HEI-TCH-RSCH-COE"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-HEI-TCH-RSCH-COE"
+      ],
+      "callccm2Id": [
+        "49697574"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49697515TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49697487TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-HEI-TCH-RSCH-CHAIR",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Jean Monnet Actions in the field of Higher Education: Chairs",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Jean Monnet Actions in the field of Higher Education: Chairs",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-JMO-2026-HEI-TCH-RSCH-CHAIR"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-03T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Jean Monnet Actions in the field of Higher Education: Chairs"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-HEI-TCH-RSCH-CHAIR"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-HEI-TCH-RSCH-CHAIR"
+      ],
+      "callccm2Id": [
+        "49697574"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49697487TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49697543TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-HEI-TCH-RSCH-MODULE",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Jean Monnet Actions in the field of Higher Education: Modules",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Jean Monnet Actions in the field of Higher Education: Modules",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-JMO-2026-HEI-TCH-RSCH-MODULE"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-03T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Jean Monnet Actions in the field of Higher Education: Modules"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-HEI-TCH-RSCH-MODULE"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-HEI-TCH-RSCH-MODULE"
+      ],
+      "callccm2Id": [
+        "49697574"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49697543TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49621215TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-OFET-TT",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Jean Monnet Actions for other fields of Education and Training: Teacher Training",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Jean Monnet Actions for other fields of Education and Training: Teacher Training",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-JMO-2026-OFET-TT"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-03T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Jean Monnet Actions for other fields of Education and Training: Teacher Training"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-OFET-TT"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-OFET-TT"
+      ],
+      "callccm2Id": [
+        "49621245"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49621215TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49621252TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-OFET-LEARNING-EU",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Jean Monnet Actions for other fields of Education and Training: Learning EU",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Jean Monnet Actions for other fields of Education and Training: Learning EU",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-JMO-2026-OFET-LEARNING-EU"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-03T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Jean Monnet Actions for other fields of Education and Training: Learning EU"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-OFET-LEARNING-EU"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-OFET-LEARNING-EU"
+      ],
+      "callccm2Id": [
+        "49621279"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49621252TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49613513TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-NETWORKS-SCHOOLS",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Jean Monnet Networks in other fields of education and training",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Jean Monnet Networks in other fields of education and training",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-JMO-2026-NETWORKS-SCHOOLS"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-03T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Jean Monnet Networks in other fields of education and training"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-NETWORKS-SCHOOLS"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-NETWORKS-SCHOOLS"
+      ],
+      "callccm2Id": [
+        "49613543"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49613513TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49613457TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-NETWORKS-HEI-EU",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Jean Monnet Network on Internal Policy: A resilient Single Market to boost EU competitiveness",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Jean Monnet Network on Internal Policy: A resilient Single Market to boost EU competitiveness",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-JMO-2026-NETWORKS-HEI-EU"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-03T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Jean Monnet Network on Internal Policy: A resilient Single Market to boost EU competitiveness"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-NETWORKS-HEI-EU"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-NETWORKS-HEI-EU"
+      ],
+      "callccm2Id": [
+        "49613543"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49613457TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49613485TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-NETWORKS-HEI-NON-EU-INDIA",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Jean Monnet Network on External Policy EU-INDIA",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Jean Monnet Network on External Policy EU-INDIA",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-JMO-2026-NETWORKS-HEI-NON-EU-INDIA"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-03T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Jean Monnet Network on External Policy EU-INDIA"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-NETWORKS-HEI-NON-EU-INDIA"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2026-NETWORKS-HEI-NON-EU-INDIA"
+      ],
+      "callccm2Id": [
+        "49613543"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49613485TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-11-27T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49589705TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PEX-EMJM-MOB",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Erasmus Mundus Joint Masters",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Erasmus Mundus Joint Masters",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-PEX-EMJM-MOB"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-11-26T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-12T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Erasmus Mundus Joint Masters"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PEX-EMJM-MOB"
+      ],
+      "typesOfAction": [
+        "ERASMUS EMJM Unit Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PEX-EMJM-MOB"
+      ],
+      "callccm2Id": [
+        "49589763"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49589705TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-11-26T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49614555TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-EUR-UNIV",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "European Universities",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "European Universities",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-EUR-UNIV"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-11-18T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-04T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "European Universities"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-EUR-UNIV"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-EUR-UNIV"
+      ],
+      "callccm2Id": [
+        "49614577"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49614555TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-11-18T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49589807TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-EMJM-DESIGN",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Erasmus Mundus Design Measures",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Erasmus Mundus Design Measures",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2026-EMJM-DESIGN"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-11-18T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-02-12T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Erasmus Mundus Design Measures"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-EMJM-DESIGN"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-EMJM-DESIGN"
+      ],
+      "callccm2Id": [
+        "49589848"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49589807TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-11-18T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49596095TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2026-LSSNCESE",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Large scale not-for-profit European sport event",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Large scale not-for-profit European sport event",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-SPORT-2026-LSSNCESE"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2025-11-13T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-01-22T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Large scale not-for-profit European sport event"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2026-LSSNCESE"
+      ],
+      "typesOfAction": [
+        "ERASMUS Project Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2026-LSSNCESE"
+      ],
+      "callccm2Id": [
+        "49596118"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49596095TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2025-11-13T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "44774210ERASMUSECHECharter1645574400000",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2022-ECHE-CERT-FP",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Erasmus Charter for Higher Education",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Erasmus Charter for Higher Education",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "ERASMUS-EDU-2022-ECHE-CERT-FP"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2022-02-23T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2022-05-03T00:00:00.000+0000",
+        "2023-01-26T00:00:00.000+0000",
+        "2024-01-25T00:00:00.000+0000",
+        "2025-01-28T00:00:00.000+0000",
+        "2026-03-24T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Erasmus Charter for Higher Education"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2022-ECHE-CERT-FP"
+      ],
+      "typesOfAction": [
+        "ERASMUS ECHE Charter"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2022-ECHE-CERT-FP"
+      ],
+      "callccm2Id": [
+        "44774225"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "44774210ERASMUSECHECharter1645574400000"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "startDate": [
+        "2022-02-23T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "multiple cut-off"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  }
+]

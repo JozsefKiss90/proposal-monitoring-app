@@ -1,0 +1,65 @@
+[
+  {
+    "destination": "Better protect the EU and its citizens against Crime and Terrorism",
+    "call_ids": [
+      "HORIZON-CL3-2026-01-FCT-01",
+      "HORIZON-CL3-2026-01-FCT-02",
+      "HORIZON-CL3-2026-01-FCT-03",
+      "HORIZON-CL3-2026-01-FCT-04",
+      "HORIZON-CL3-2026-01-FCT-05",
+      "HORIZON-CL3-2026-01-FCT-06",
+      "HORIZON-CL3-2027-01-FCT-01",
+      "HORIZON-CL3-2027-01-FCT-02",
+      "HORIZON-CL3-2027-01-FCT-03",
+      "HORIZON-CL3-2027-01-FCT-04",
+      "HORIZON-CL3-2027-01-FCT-05"
+    ]
+  },
+  {
+    "destination": "Effective management of EU external borders",
+    "call_ids": [
+      "HORIZON-CL3-2026-01-BM-01",
+      "HORIZON-CL3-2026-01-BM-02",
+      "HORIZON-CL3-2026-01-BM-03",
+      "HORIZON-CL3-2027-01-BM-01",
+      "HORIZON-CL3-2027-01-BM-02",
+      "HORIZON-CL3-2027-01-BM-03"
+    ]
+  },
+  {
+    "destination": "Resilient Infrastructure",
+    "call_ids": [
+      "HORIZON-CL3-2026-01-INFRA-01",
+      "HORIZON-CL3-2026-01-INFRA-02",
+      "HORIZON-CL3-2026-01-INFRA-03",
+      "HORIZON-CL3-2027-01-INFRA-01",
+      "HORIZON-CL3-2027-01-INFRA-02"
+    ]
+  },
+  {
+    "destination": "Disaster-Resilient Society for Europe",
+    "call_ids": [
+      "HORIZON-CL3-2026-01-DRS-01",
+      "HORIZON-CL3-2026-01-DRS-02",
+      "HORIZON-CL3-2026-01-DRS-03",
+      "HORIZON-CL3-2026-01-DRS-04",
+      "HORIZON-CL3-2026-01-DRS-05",
+      "HORIZON-CL3-2027-01-DRS-01",
+      "HORIZON-CL3-2027-01-DRS-02",
+      "HORIZON-CL3-2027-01-DRS-03",
+      "HORIZON-CL3-2027-01-DRS-04"
+    ]
+  },
+  {
+    "destination": "Strengthened Security Research and Innovation",
+    "call_ids": [
+      "HORIZON-CL3-2026-01-SSRI-01",
+      "HORIZON-CL3-2026-01-SSRI-02",
+      "HORIZON-CL3-2026-01-SSRI-03",
+      "HORIZON-CL3-2026-01-SSRI-04",
+      "HORIZON-CL3-2027-01-SSRI-01",
+      "HORIZON-CL3-2027-01-SSRI-02",
+      "HORIZON-CL3-2027-01-SSRI-03"
+    ]
+  }
+]

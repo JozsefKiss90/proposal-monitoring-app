@@ -3,22 +3,26 @@
     "must": [
       {
         "terms": {
-          "type": ["1", "2", "8"]
+          "type": [
+            "1",
+            "2",
+            "8"
+          ]
         }
       },
       {
         "terms": {
-          "status": ["31094501", "31094502", "31094503"]
-        }
-      },
-      {
-        "term": {
-          "programmePeriod": "2021 - 2027"
+          "status": [
+            "31094501",
+            "31094502"
+          ]
         }
       },
       {
         "terms": {
-          "frameworkProgramme": ["43108390"]
+          "frameworkProgramme": [
+            "43353764"
+          ]
         }
       }
     ]

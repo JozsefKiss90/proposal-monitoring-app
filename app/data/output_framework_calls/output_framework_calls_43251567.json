@@ -1,0 +1,148 @@
+[
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49844413TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CEF-E-2026-CBRENEW-WORKS",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Cross-border renewable energy works projects",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Cross-border renewable energy works projects",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "CEF-E-2026-CBRENEW-WORKS"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2026-02-05T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-12T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Cross-border renewable energy works projects"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CEF-E-2026-CBRENEW-WORKS"
+      ],
+      "typesOfAction": [
+        "CEF Infrastructure Projects"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CEF-E-2026-CBRENEW-WORKS"
+      ],
+      "callccm2Id": [
+        "49844424"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49844413TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43251567"
+      ],
+      "startDate": [
+        "2026-02-05T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094501"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  },
+  {
+    "apiVersion": "2.143.3",
+    "reference": "49844403TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CEF-E-2026-CBRENEW-STUDIES",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Cross-border renewable energy studies projects",
+    "weight": 0.0,
+    "groupById": null,
+    "content": "Cross-border renewable energy studies projects",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": null,
+    "metadata": {
+      "identifier": [
+        "CEF-E-2026-CBRENEW-STUDIES"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2026-02-05T00:00:00.000+0000"
+      ],
+      "deadlineDate": [
+        "2026-03-12T00:00:00.000+0000"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Cross-border renewable energy studies projects"
+      ],
+      "type": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CEF-E-2026-CBRENEW-STUDIES"
+      ],
+      "typesOfAction": [
+        "CEF Project Grants"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CEF-E-2026-CBRENEW-STUDIES"
+      ],
+      "callccm2Id": [
+        "49844424"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49844403TOPICSen"
+      ],
+      "frameworkProgramme": [
+        "43251567"
+      ],
+      "startDate": [
+        "2026-02-05T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094501"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": []
+  }
+]

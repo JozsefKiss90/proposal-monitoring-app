@@ -1,0 +1,621 @@
+{
+            "apiVersion": "2.143.3",
+            "name": "frameworkProgramme",
+            "rawName": "frameworkProgramme",
+            "database": "SEDIA",
+            "count": 102,
+            "values": [
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31045243",
+                    "value": "Horizon 2020 Framework Programme (H2020 - 2014-2020)",
+                    "count": 98879
+                },
+                {
+                    "apiVersion": "2.143.3", 
+                    "rawValue": "43108390",
+                    "value": "Horizon Europe (HORIZON)",
+                    "count": 86718
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "HORIZON",
+                    "value": "HORIZON",
+                    "count": 8784
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43152860",
+                    "value": "Digital Europe Programme (DIGITAL)",
+                    "count": 6348
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43353764",
+                    "value": "Erasmus  (ERASMUS )",
+                    "count": 6325
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43251567",
+                    "value": "Connecting Europe Facility (CEF)",
+                    "count": 6250
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "111111",
+                    "value": "EU External Action - Prospect (RELEX-PROSPECT)",
+                    "count": 6216
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "44181033",
+                    "value": "European Defence Fund (EDF)",
+                    "count": 4570
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43251814",
+                    "value": "Creative Europe Programme (CREA)",
+                    "count": 3735
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43252405",
+                    "value": "Programme for the Environment and Climate Action (LIFE)",
+                    "count": 3691
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43251589",
+                    "value": "Citizens, Equality, Rights and Values Programme (CERV)",
+                    "count": 2236
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43332642",
+                    "value": "EU4Health Programme (EU4H)",
+                    "count": 2163
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43298664",
+                    "value": "Promotion of Agricultural Products (AGRIP)",
+                    "count": 1850
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31059643",
+                    "value": "Programme for the Competitiveness of Enterprises and small and medium-sized enterprises (COSME - 2014-2020)",
+                    "count": 1547
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43252476",
+                    "value": "Single Market Programme (SMP)",
+                    "count": 1509
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31076817",
+                    "value": "Rights, Equality and Citizenship Programme (REC - 2014-2020)",
+                    "count": 1491
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31072773",
+                    "value": "Promotion of Agricultural Products (AGRIP - 2014-2020)",
+                    "count": 1334
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31109727",
+                    "value": "European Defence Industrial Development Programme (EDIDP - 2014-2020)",
+                    "count": 1236
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31077817",
+                    "value": "Internal Security Fund Police (ISFP - 2014-2020)",
+                    "count": 1159
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31061266",
+                    "value": "3rd Health Programme (3HP - 2014-2020)",
+                    "count": 1133
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "42810547",
+                    "value": "Europe Direct (ED - 2014-2020)",
+                    "count": 1084
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "45532249",
+                    "value": "EU Bodies and Agencies (EUBA)",
+                    "count": 1002
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31070247",
+                    "value": "Justice Programme (JUST - 2014-2020)",
+                    "count": 997
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31084392",
+                    "value": "Hercule III (HERC - 2014-2020)",
+                    "count": 988
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43089234",
+                    "value": "Innovation Fund (INNOVFUND)",
+                    "count": 933
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43252449",
+                    "value": "Research Fund for Coal %26 Steel (RFCS)",
+                    "count": 932
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43298916",
+                    "value": "Euratom Research and Training Programme (EURATOM)",
+                    "count": 913
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "ERASMUS2027",
+                    "value": "ERASMUS2027",
+                    "count": 877
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43251842",
+                    "value": "Union Anti-fraud Programme (EUAF)",
+                    "count": 787
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43254019",
+                    "value": "European Social Fund   (ESF) ",
+                    "count": 752
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43637601",
+                    "value": "Pilot Projects %26 Preparation Actions (PPPA)",
+                    "count": 710
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "EDF",
+                    "value": "EDF",
+                    "count": 700
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31077795",
+                    "value": "Asylum, Migration and Integration Fund (AMIF - 2014-2020)",
+                    "count": 697
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43697167",
+                    "value": "European Parliament (EP)",
+                    "count": 687
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "CEF2027",
+                    "value": "CEF2027",
+                    "count": 680
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31084250",
+                    "value": "Pilot Projects and Preparatory Actions (PPPA - 2014-2020)",
+                    "count": 664
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "DIGITAL",
+                    "value": "DIGITAL",
+                    "count": 564
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43392145",
+                    "value": "European Maritime, Fisheries and Aquaculture Fund (EMFAF)",
+                    "count": 551
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31059093",
+                    "value": "Erasmus  Programme (EPLUS - 2014-2020)",
+                    "count": 545
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "44416173",
+                    "value": "Interregional Innovation Investments Instrument (I3)",
+                    "count": 529
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43252368",
+                    "value": "Internal Security Fund (ISF)",
+                    "count": 517
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31059083",
+                    "value": "Creative Europe (CREA - 2014-2020)",
+                    "count": 499
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43252386",
+                    "value": "Justice Programme (JUST)",
+                    "count": 473
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "CREA2027",
+                    "value": "CREA2027",
+                    "count": 459
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "LIFE2027",
+                    "value": "LIFE2027",
+                    "count": 423
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43298203",
+                    "value": "Union Civil Protection Mechanism (UCPM)",
+                    "count": 417
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31061225",
+                    "value": "Research Fund for Coal %26 Steel (RFCS - 2014-2020)",
+                    "count": 368
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43252517",
+                    "value": "Social Prerogative and Specific Competencies Lines (SOCPL)",
+                    "count": 366
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43251447",
+                    "value": "Asylum, Migration and Integration Fund (AMIF)",
+                    "count": 360
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31061273",
+                    "value": "Consumer Programme (CP - 2014-2020)",
+                    "count": 331
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31082527",
+                    "value": "Union Civil Protection Mechanism (UCPM - 2014-2020)",
+                    "count": 329
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43254037",
+                    "value": "European Solidarity Corps (ESC)",
+                    "count": 279
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "CERV",
+                    "value": "CERV",
+                    "count": 272
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31098847",
+                    "value": "European Maritime and Fisheries Fund (EMFF - 2014-2020)",
+                    "count": 258
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "AGRIP2027",
+                    "value": "AGRIP2027",
+                    "count": 242
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "EU4H",
+                    "value": "EU4H",
+                    "count": 201
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31107710",
+                    "value": "Programme for the Environment and Climate Action (LIFE - 2014-2020)",
+                    "count": 198
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "INNOVFUND",
+                    "value": "INNOVFUND",
+                    "count": 158
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "SMP",
+                    "value": "SMP",
+                    "count": 132
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43251882",
+                    "value": "Support for information measures relating to the common agricultural policy (IMCAP)",
+                    "count": 126
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "44773066",
+                    "value": "Just Transition Mechanism (JTM)",
+                    "count": 103
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43252433",
+                    "value": "Programme for the Protection of the Euro against Counterfeiting  (PERICLES IV)",
+                    "count": 102
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "EUBA",
+                    "value": "EUBA",
+                    "count": 102
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31059088",
+                    "value": "Europe For Citizens (EFC - 2014-2020)",
+                    "count": 100
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "44773133",
+                    "value": "Information Measures for the EU Cohesion policy (IMREG)",
+                    "count": 99
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "EURATOM2027",
+                    "value": "EURATOM2027",
+                    "count": 88
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "EP",
+                    "value": "EP",
+                    "count": 80
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43251530",
+                    "value": "Border Management and Visa Policy Instrument (BMVI)",
+                    "count": 77
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "PPPA2027",
+                    "value": "PPPA2027",
+                    "count": 76
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "RFCS2027",
+                    "value": "RFCS2027",
+                    "count": 76
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31077833",
+                    "value": "Internal Security Fund Borders and Visa (ISFB - 2014-2020)",
+                    "count": 74
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "EMFAF",
+                    "value": "EMFAF",
+                    "count": 68
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "ESF",
+                    "value": "ESF",
+                    "count": 63
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "43253967",
+                    "value": "Renewable Energy Financing Mechanism (RENEWFM)",
+                    "count": 56
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "42198993",
+                    "value": "Support for information measures relating to the common agricultural policy (IMCAP - 2014-2020)",
+                    "count": 54
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "47376280",
+                    "value": "EU External Action - eGrants (RELEX2027)",
+                    "count": 52
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "EUAF",
+                    "value": "EUAF",
+                    "count": 52
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "45876777",
+                    "value": "Neighbourhood, Development and International Cooperation Instrument %E2%80%93 Global Europe (NDICI)",
+                    "count": 51
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "I3",
+                    "value": "I3",
+                    "count": 51
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31088049",
+                    "value": "European Statistics (ESTAT - 2014-2020)",
+                    "count": 50
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "47786028",
+                    "value": "Business and Consumer Surveys Programme (BCS)",
+                    "count": 48
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "ISF",
+                    "value": "ISF",
+                    "count": 45
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "UCPM2027",
+                    "value": "UCPM2027",
+                    "count": 44
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "JUST2027",
+                    "value": "JUST2027",
+                    "count": 43
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "ESC2027",
+                    "value": "ESC2027",
+                    "count": 37
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "ED",
+                    "value": "ED",
+                    "count": 29
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "SOCPL",
+                    "value": "SOCPL",
+                    "count": 29
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "46324255",
+                    "value": "Technical assistance for ERDF, CF and JTF (ERDF-TA)",
+                    "count": 26
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31059098",
+                    "value": "EU Aid Volunteers programme (EUAID - 2014-2020)",
+                    "count": 25
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31075571",
+                    "value": "Intra-Africa Academic Mobility Scheme (PANAF - 2014-2020)",
+                    "count": 25
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "42992790",
+                    "value": "European Solidarity Corps (ESC - 2014-2020)",
+                    "count": 25
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "AMIF2027",
+                    "value": "AMIF2027",
+                    "count": 25
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "31114387",
+                    "value": "The European Union programme for education, training, youth and sport",
+                    "count": 18
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "RENEWFM",
+                    "value": "RENEWFM",
+                    "count": 10
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "BCS",
+                    "value": "BCS",
+                    "count": 9
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "BMVI",
+                    "value": "BMVI",
+                    "count": 9
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "JTM",
+                    "value": "JTM",
+                    "count": 8
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "IMCAP2027",
+                    "value": "IMCAP2027",
+                    "count": 6
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "NDICI",
+                    "value": "NDICI",
+                    "count": 6
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "PERI",
+                    "value": "PERI",
+                    "count": 6
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "IMREG",
+                    "value": "IMREG",
+                    "count": 5
+                },
+                {
+                    "apiVersion": "2.143.3",
+                    "rawValue": "ERDFTA",
+                    "value": "ERDFTA",
+                    "count": 2
+                }
+            ]
+        }

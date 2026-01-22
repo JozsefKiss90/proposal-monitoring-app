@@ -1,0 +1,52 @@
+{
+  "Destination - Staying healthy in a rapidly changing society": [
+    "HORIZON-HLTH-2026-01-STAYHLTH-02",
+    "HORIZON-HLTH-2026-01-STAYHLTH-03",
+    "HORIZON-HLTH-2027-01-STAYHLTH-01"
+  ],
+  "Destination - Living and working in a health-promoting environment": [
+    "HORIZON-HLTH-2026-01-ENVHLTH-01",
+    "HORIZON-HLTH-2026-01-ENVHLTH-04",
+    "HORIZON-HLTH-2026-01-ENVHLTH-05",
+    "HORIZON-HLTH-2027-01-ENVHLTH-02",
+    "HORIZON-HLTH-2027-01-ENVHLTH-MISSCLIMA-03"
+  ],
+  "Destination - Tackling diseases and reducing disease burden": [
+    "HORIZON-HLTH-2026-01-DISEASE-02",
+    "HORIZON-HLTH-2026-01-DISEASE-03",
+    "HORIZON-HLTH-2026-01-DISEASE-04",
+    "HORIZON-HLTH-2026-01-DISEASE-09",
+    "HORIZON-HLTH-2026-01-DISEASE-11",
+    "HORIZON-HLTH-2026-02-DISEASE-12",
+    "HORIZON-HLTH-2026-03-DISEASE-13",
+    "HORIZON-HLTH-2026-01-DISEASE-15",
+    "HORIZON-HLTH-2027-02-DISEASE-01-two-stage",
+    "HORIZON-HLTH-2027-01-DISEASE-05",
+    "HORIZON-HLTH-2027-01-DISEASE-06",
+    "HORIZON-HLTH-2027-01-DISEASE-07",
+    "HORIZON-HLTH-2027-01-DISEASE-08",
+    "HORIZON-HLTH-2027-01-DISEASE-10",
+    "HORIZON-HLTH-2027-02-DISEASE-14-two-stage"
+  ],
+  "Destination - Ensuring equal access to innovative, sustainable, and high-quality healthcare": [
+    "HORIZON-HLTH-2026-01-CARE-01",
+    "HORIZON-HLTH-2026-01-CARE-03",
+    "HORIZON-HLTH-2026-04-CARE-04",
+    "HORIZON-HLTH-2027-01-CARE-02"
+  ],
+  "Destination - Developing and using new tools, technologies and digital solutions for a healthy society": [
+    "HORIZON-HLTH-2026-01-TOOL-03",
+    "HORIZON-HLTH-2026-01-TOOL-05",
+    "HORIZON-HLTH-2026-01-TOOL-06",
+    "HORIZON-HLTH-2026-01-TOOL-07",
+    "HORIZON-HLTH-2027-02-TOOL-01-two-stage",
+    "HORIZON-HLTH-2027-03-TOOL-02",
+    "HORIZON-HLTH-2027-03-TOOL-04",
+    "HORIZON-HLTH-2027-03-TOOL-08"
+  ],
+  "Destination - Maintaining an innovative, sustainable, and competitive EU health industry": [
+    "HORIZON-HLTH-2026-01-IND-03",
+    "HORIZON-HLTH-2027-01-IND-01",
+    "HORIZON-HLTH-2027-02-IND-02-two-stage"
+  ]
+}
