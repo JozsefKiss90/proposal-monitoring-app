@@ -1,0 +1,200 @@
+{
+  "HORIZON-CL2": [
+    {
+      "destination_code": "DEMOCRACY", 
+      "destination_title": "Innovative Research on Democracy and Governance"
+    },
+    {
+      "destination_code": "HERITAGE",
+      "destination_title": "Innovative Research on European Cultural Heritage and Cultural and"
+    },
+    {
+      "destination_code": "TRANSFO",
+      "destination_title": "Innovative Research on Social and Economic Transformations"
+    }
+  ],
+  "HORIZON-CL3": [
+    {
+      "destination_code": "BM",
+      "destination_title": "Effective management of EU external borders"
+    },
+    { 
+      "destination_code": "DRS",
+      "destination_title": "Disaster-Resilient Society for Europe"
+    },
+    {
+      "destination_code": "SSRI",
+      "destination_title": "Strengthened Security Research and Innovation"
+    },
+    {
+      "destination_code": "FCT",
+      "destination_title": "Better protect the EU and its citizens against Crime and Terrorism"
+    },
+    {
+      "destination_code": "INFRA",
+      "destination_title": "Resilient Infrastructure"
+    },
+     {
+      "destination_code": "CS-ECCC",
+      "destination_title": "Indirectly Managed Action by the ECCC (2026)"
+    }
+  ],
+  "HORIZON-CL4": [
+    {
+      "destination_code": "DIGITAL-EMERGING",
+      "destination_title": "Developing an agile and secure single market and infrastructure for data services and trustworthy artificial intelligence services",
+      "alt_codes": [
+        "DATA",
+        "EMERGING"
+      ] 
+    },
+    {
+      "destination_code": "HUMAN",
+      "destination_title": "Digital and industrial technologies driving human-centric innovation"
+    },
+    {
+      "destination_code": "MATERIALS-PRODUCTION",
+      "destination_title": "Leadership in materials and production for Europe",
+       "alt_codes": [
+        "MAT-PROD"
+      ]
+    },
+    
+    {
+      "destination_code": "SPACE",
+      "destination_title": "Open Strategic Autonomy in Developing, Deploying and Using Global"
+    }
+  ],
+  "HORIZON-CL5": [
+    {
+      "destination_code": "D1",
+      "destination_title": "Climate sciences and responses for the transformation towards climate neutrality",
+      "alt_codes": [
+        "Two-Stage-D1"
+      ]
+    },
+    {
+      "destination_code": "D2",
+      "destination_title": "Cross-sectoral solutions for the climate transition",
+      "alt_codes": [
+        "Two-Stage-D2"
+      ]
+    },
+    {
+      "destination_code": "D3",
+      "destination_title": "Sustainable, secure and competitive energy supply",
+      "alt_codes": [
+        "Two-Stage-D3"
+      ]
+    },
+    {
+      "destination_code": "D4",
+      "destination_title": "Efficient, sustainable and inclusive energy use"
+    },
+    {
+      "destination_code": "D5",
+      "destination_title": "Clean and competitive solutions for all transport modes",
+      "alt_codes": [
+        "Two-Stage-D5"
+      ]
+    },
+    {
+      "destination_code": "D6",
+      "destination_title": "Safe, Resilient Transport and Smart Mobility services for passengers and goods"
+    }
+  ],
+  "HORIZON-CL6": [
+    {
+      "destination_code": "BIODIV",
+      "destination_title": "Biodiversity and ecosystem services"
+    },
+    {
+      "destination_code": "CIRCBIO",
+      "destination_title": "Circular economy and bioeconomy sectors"
+    },
+    {
+      "destination_code": "CLIMATE",
+      "destination_title": "Land, ocean and water for climate action"
+    },
+    {
+      "destination_code": "COMMUNITIES",
+      "destination_title": "Resilient, inclusive, healthy and green rural, coastal and urban communities"
+    },
+    {
+      "destination_code": "FARM2FORK",
+      "destination_title": "Fair, healthy and environment-friendly food systems from primary production to consumption"
+    },
+    {
+      "destination_code": "GOVERNANCE",
+      "destination_title": "Innovative governance, environmental observations and digital solutions in support of the Green Deal"
+    },
+    {
+      "destination_code": "ZEROPOLLUTION",
+      "destination_title": "Clean environment and zero pollution"
+    }
+  ],
+  "HORIZON-HLTH": [
+    {
+      "destination_code": "CARE",
+      "destination_title": "Ensuring equal access to innovative, sustainable, and high-quality healthcare"
+    },
+    {
+      "destination_code": "DISEASE",
+      "destination_title": "Tackling diseases and reducing disease burden"
+    },
+    {
+      "destination_code": "ENVHLTH",
+      "destination_title": "Living and working in a health-promoting environment",
+      "alt_codes": [
+        "ENVHLTH-MISSCLIMA"
+      ]
+    },
+    {
+      "destination_code": "IND",
+      "destination_title": "Maintaining an innovative, sustainable, and competitive EU health industry"
+    },
+    {
+      "destination_code": "STAYHLTH",
+      "destination_title": "Staying healthy in a rapidly changing society"
+    },
+    {
+      "destination_code": "TOOL",
+      "destination_title": "Developing and using new tools, technologies and digital solutions for a healthy society"
+    }
+  ],
+  "HORIZON-MISS": [
+    {
+      "destination_code": "CANCER",
+      "destination_title": "Cancer: Supporting the implementation of the Cancer Mission"
+    },
+    {
+      "destination_code": "CIT",
+      "destination_title": "100 Climate-Neutral and Smart Cities by 2030",
+      "alt_codes": [
+        "CIT-CCRI"
+      ]
+    },
+    {
+      "destination_code": "CIT-NEB-B4P-CCRI",
+      "destination_title": "EU Missions' Joint Calls",
+      "alt_codes": [
+        "CLIMA",
+        "CLIMA-CIT-NEB",
+        "CLIMA-CIT-CCRI",
+        "SOIL"
+      ]
+    },
+    {
+      "destination_code": "CLIMA",
+      "destination_title": "Adaptation to Climate Change: Supporting the implementation of the EU Mission Adaptation to Climate Change"
+    },
+    {
+      "destination_code": "OCEAN",
+      "destination_title": "Restore our Ocean and Waters by 2030: Supporting the implementation of the Restore our Ocean and Waters Mission"
+    },
+    {
+      "destination_code": "SOIL",
+      "destination_title": "A Soil Deal for Europe: Supporting the implementation of the Mission Soil"
+    }
+  ]
+}

@@ -1,0 +1,1333 @@
+{
+  "CROSS": [
+    {
+      "identifier": "HORIZON-MISS-2026-07-CROSS-01",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-01",
+      "topic_title": "Strengthening skills and capacity for the deployment of EU Missions",
+      "call_title": "Cross-cutting activities",
+      "call_identifier": "HORIZON-MISS-2026-01",
+      "type_of_action": "HORIZON Coordination and Support Actions",
+      "min_contribution": 0.0,
+      "max_contribution": 0.0,
+      "indicative_budget": 0.0,
+      "indicative_number_of_projects": null,
+      "destinationDescription": "",
+      "destinationDescription_text": "",
+      "opening_date": "",
+      "deadline": "2026-03-31T00:00:00+00:00",
+      "status": "",
+      "deadline_model": "",
+      "tags": [
+        "Capacity Building",
+        "Gap Analysis",
+        "Innovative Solutions",
+        "Local Authorities Training",
+        "Regional Collaboration",
+        "Skills Inventory",
+        "Stakeholder Engagement"
+      ],
+      "keywords": [
+        "HORIZON-MISS-2026-07-CROSS-01",
+        "HORIZON-MISS-2026-01",
+        "Innovation strategies",
+        "Innovation support services",
+        "Innovation systems",
+        "Related to SME and start-up support",
+        "Related to industrial policy",
+        "Related to regional development"
+      ],
+      "raw": {
+        "apiVersion": "2.143.3",
+        "reference": "48336405TOPICSen",
+        "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-01",
+        "title": null,
+        "contentType": "text/plain",
+        "language": "en",
+        "databaseLabel": "SEDIA",
+        "database": "SEDIA",
+        "summary": "Strengthening skills and capacity for the deployment of EU Missions",
+        "weight": 14.759697,
+        "groupById": "1",
+        "content": "Strengthening skills and capacity for the deployment of EU Missions",
+        "accessRestriction": false,
+        "pages": null,
+        "checksum": "8CA20CCCAF7C6A08D72878FA653463621834582D5FFD213A9ED9E975AC750134",
+        "metadata": {
+          "latestInfos": [
+            "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-12-10T10:47:12.012\",\"content\":\"The submission session is now available for: HORIZON-MISS-2026-07-CROSS-01, HORIZON-MISS-2026-07-CROSS-02, HORIZON-MISS-2026-07-CROSS-03\"}]"
+          ],
+          "es_SortDate": [
+            "2025-12-09T00:00:00.000+0000"
+          ],
+          "sepTemplate": [
+            "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+          ],
+          "keywords": [
+            "HORIZON-MISS-2026-07-CROSS-01",
+            "HORIZON-MISS-2026-01",
+            "Innovation strategies",
+            "Innovation support services",
+            "Innovation systems",
+            "Related to SME and start-up support",
+            "Related to industrial policy",
+            "Related to regional development"
+          ],
+          "sortStatus": [
+            "1"
+          ],
+          "language": [
+            "en"
+          ],
+          "topicConditions": [
+            "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p><p><strong><em>DELETE ME</em></strong> Please add hyperlinks as embedded links where needed (underscored text). Send the call document through the <a href=\"https://t-rex.net1.cec.eu.int/call-publication-form/\" rel=\"noopener noreferrer\" target=\"_blank\">document publication form</a> to receive the hyperlink within 2 business days max. <strong><em>DELETE ME</em></strong></p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the [specific topic of the Work Programme]</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-csa_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE CSA)</a> </p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p><p><br></br></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-1-general-introduction_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-12-missions_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 – 14. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a>&#xa0;</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p><p><br></br></p></div></div>"
+          ],
+          "title": [
+            "Strengthening skills and capacity for the deployment of EU Missions"
+          ],
+          "type": [
+            "1"
+          ],
+          "esST_checksum": [
+            "8CA20CCCAF7C6A08D72878FA653463621834582D5FFD213A9ED9E975AC750134"
+          ],
+          "focusArea": [],
+          "esST_FileName": [
+            "file.txt"
+          ],
+          "typeOfMGAs": [
+            "43027846"
+          ],
+          "callIdentifier": [
+            "HORIZON-MISS-2026-01"
+          ],
+          "ccm2Id": [
+            "48336405"
+          ],
+          "callccm2Id": [
+            "48336798"
+          ],
+          "DATASOURCE": [
+            "SEDIA"
+          ],
+          "REFERENCE": [
+            "48336405TOPICSen"
+          ],
+          "links": [
+            "[{\"callIdentifier\":\"HORIZON-MISS-2025-07\",\"criterionCode\":\"HORIZON-CSA\",\"criterionDescription\":\"HORIZON Coordination and Support Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43003?topic\\u003dHORIZON-MISS-2026-07-CROSS-01\",\"startDate\":\"1765238400000\",\"endDate\":\"1774915200000\",\"mgaDescription\":\"HORIZON Action Grant Budget-Based\",\"mgaCode\":\"HORIZON-AG\"}]"
+          ],
+          "callTitle": [
+            "Cross-cutting activities"
+          ],
+          "frameworkProgramme": [
+            "43108390"
+          ],
+          "descriptionByte": [
+            "<span class=\"topicdescriptionkind\">Expected Outcome:</span><p> </p><ul level=\"0\"><li>Local authorities, including those not directly participating in the action, have a better understanding of required skill sets and expertise to more effectively participate in EU Missions and accelerating the deployment of solutions.</li><li>Increased uptake and scaling of innovations, fostering a culture of experimentation and impact-driven action.</li><li>Enhanced collaboration and knowledge exchange across regions, strengthening the overall implementation of the EU Missions.</li> </ul><p><strong>Scope</strong>: This call aims to strengthen research-driven capacity-building and institutional readiness to accelerate the deployment of innovative solutions in support of the five EU Missions. By identifying skills gaps, enhancing capacity within local authorities, and fostering experimentation and innovation at the local level, this action will empower key actors to fully leverage the Missions’ potential.</p><p>Proposals should address the following key areas:</p><ul level=\"0\"><li>Skills inventory and gap analysis: conduct a comprehensive assessment of required and desirable skills and capacities relevant to the implementation of the EU Missions. Develop and promote methods to identify gaps, barriers and training needs across sectors and stakeholders, ensuring alignment with the specific challenges of diverse missions.</li><li>Specific capacity building activities with local authorities should be undertaken to co-create and validate the methods and materials to be developed related to skills mapping and skills gap analysis for the deployment of innovative solutions. Such capacity building activities may take the form of targeted training programmes, peer-learning networks, and mentoring schemes for local authorities to build up skills and knowledge necessary to deploy innovative solutions, engage stakeholders, and mobilize funding for Mission-related activities.</li> </ul>"
+          ],
+          "identifier": [
+            "HORIZON-MISS-2026-07-CROSS-01"
+          ],
+          "es_ContentType": [
+            "text/plain"
+          ],
+          "programmeDivision": [
+            "43120193",
+            "43108541",
+            "43108390"
+          ],
+          "crossCuttingPriorities": [],
+          "esDA_FirstIngestDate": [
+            "2025-12-10T11:01:51.110+0100"
+          ],
+          "programmePeriod": [
+            "2021 - 2027"
+          ],
+          "deadlineDate": [
+            "2026-03-31T00:00:00.000+0000"
+          ],
+          "esDA_IngestDate": [
+            "2025-12-10T11:01:51.110+0100"
+          ],
+          "typesOfAction": [
+            "HORIZON Coordination and Support Actions"
+          ],
+          "url": [
+            "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-01"
+          ],
+          "es_Combine": [
+            "1"
+          ],
+          "esST_URL": [
+            "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-01"
+          ],
+          "tags": [
+            "Capacity Building",
+            "Gap Analysis",
+            "Innovative Solutions",
+            "Local Authorities Training",
+            "Regional Collaboration",
+            "Skills Inventory",
+            "Stakeholder Engagement"
+          ],
+          "cenTagsA": [
+            "TOPICS-016494",
+            "TOPICS-016495",
+            "TOPICS-016496",
+            "TOPICS-000317",
+            "TOPICS-016497",
+            "TOPICS-000624",
+            "TOPICS-016498",
+            "TOPICS-016499",
+            "TOPICS-002284",
+            "TOPICS-016500",
+            "TOPICS-000468",
+            "TOPICS-004547",
+            "TOPICS-002712",
+            "TOPICS-000635",
+            "TOPICS-006233",
+            "TOPICS-006547"
+          ],
+          "esDA_QueueDate": [
+            "2025-12-10T11:01:51.100+0100"
+          ],
+          "actions": [
+            "[{\"types\":[{\"typeOfAction\":\"HORIZON-CSA HORIZON Coordination and Support Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2025-12-09\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-03-31\"]}]"
+          ],
+          "allowPartnerSearch": [
+            "true"
+          ],
+          "budgetOverview": [
+            "{\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"110721\":[{\"action\":\"HORIZON-MISS-2026-07-CROSS-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":1000000,\"maxContribution\":1000000,\"budgetYearMap\":{\"2025\":\"1000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-03-31\"]}],\"110723\":[{\"action\":\"HORIZON-MISS-2026-07-CROSS-03 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":2,\"minContribution\":4000000,\"maxContribution\":4000000,\"budgetYearMap\":{\"2025\":\"8000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-03-31\"]}],\"110722\":[{\"action\":\"HORIZON-MISS-2026-07-CROSS-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":2000000,\"maxContribution\":2000000,\"budgetYearMap\":{\"2025\":\"2000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-03-31\"]}]}}"
+          ],
+          "startDate": [
+            "2025-12-09T00:00:00.000+0000"
+          ],
+          "deadlineModel": [
+            "single-stage"
+          ],
+          "specificObjective": [],
+          "supportInfo": [
+            "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+          ],
+          "status": [
+            "31094502"
+          ]
+        },
+        "enrichedMetadata": {},
+        "children": [],
+        "highlightedFragments": []
+      },
+      "unique_key": "|HORIZON-MISS-2026-07-CROSS-01|48336798|en",
+      "programme": "HORIZON",
+      "group_value": "CROSS"
+    },
+    {
+      "identifier": "HORIZON-MISS-2026-07-CROSS-02",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-02",
+      "topic_title": "Understanding and overcoming barriers to the scale-up of innovations supporting EU Missions",
+      "call_title": "Cross-cutting activities",
+      "call_identifier": "HORIZON-MISS-2026-01",
+      "type_of_action": "HORIZON  Research and Innovation Actions",
+      "min_contribution": 0.0,
+      "max_contribution": 0.0,
+      "indicative_budget": 0.0,
+      "indicative_number_of_projects": null,
+      "destinationDescription": "",
+      "destinationDescription_text": "",
+      "opening_date": "",
+      "deadline": "2026-03-31T00:00:00+00:00",
+      "status": "",
+      "deadline_model": "",
+      "tags": [
+        "Behavioural Change",
+        "Cultural Narratives",
+        "Digital Technologies",
+        "Innovation Deployment",
+        "Interdisciplinary Research",
+        "Regulatory Frameworks",
+        "Socio-economic Impacts",
+        "Socio-technical Barriers",
+        "Stakeholder Engagement",
+        "Technology Adoption"
+      ],
+      "keywords": [
+        "HORIZON-MISS-2026-07-CROSS-02",
+        "HORIZON-MISS-2026-01",
+        "Emerging industries",
+        "Innovation strategies",
+        "Innovation support services",
+        "Regulatory framework for innovation",
+        "Technology implementation"
+      ],
+      "raw": {
+        "apiVersion": "2.143.3",
+        "reference": "48336424TOPICSbg",
+        "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-02",
+        "title": null,
+        "contentType": "text/plain",
+        "language": "bg",
+        "databaseLabel": "SEDIA",
+        "database": "SEDIA",
+        "summary": "Understanding and overcoming barriers to the scale-up of innovations supporting EU Missions",
+        "weight": 12.999525,
+        "groupById": "1",
+        "content": "Understanding and overcoming barriers to the scale-up of innovations supporting EU Missions",
+        "accessRestriction": false,
+        "pages": null,
+        "checksum": "204971FDEBCDED238A283705E92904835875EC38469CFD77A98BE49AD7815B8C",
+        "metadata": {
+          "latestInfos": [
+            "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-12-10T10:47:12.020\",\"content\":\"The submission session is now available for: HORIZON-MISS-2026-07-CROSS-01, HORIZON-MISS-2026-07-CROSS-02, HORIZON-MISS-2026-07-CROSS-03\"}]"
+          ],
+          "es_SortDate": [
+            "2025-12-09T00:00:00.000+0000"
+          ],
+          "sepTemplate": [
+            "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+          ],
+          "keywords": [
+            "HORIZON-MISS-2026-07-CROSS-02",
+            "HORIZON-MISS-2026-01",
+            "Emerging industries",
+            "Innovation strategies",
+            "Innovation support services",
+            "Regulatory framework for innovation",
+            "Technology implementation"
+          ],
+          "sortStatus": [
+            "1"
+          ],
+          "language": [
+            "bg"
+          ],
+          "topicConditions": [
+            "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p><p><strong><em>DELETE ME</em></strong> Please add hyperlinks as embedded links where needed (underscored text). Send the call document through the <a href=\"https://t-rex.net1.cec.eu.int/call-publication-form/\" rel=\"noopener noreferrer\" target=\"_blank\">document publication form</a> to receive the hyperlink within 2 business days max. <strong><em>DELETE ME</em></strong></p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the [specific topic of the Work Programme]</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE RIA, IA)</a> </p><p><br></br></p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-1-general-introduction_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-12-missions_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 – 14. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a> </p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+          ],
+          "title": [
+            "Understanding and overcoming barriers to the scale-up of innovations supporting EU Missions"
+          ],
+          "type": [
+            "1"
+          ],
+          "esST_checksum": [
+            "204971FDEBCDED238A283705E92904835875EC38469CFD77A98BE49AD7815B8C"
+          ],
+          "focusArea": [],
+          "esST_FileName": [
+            "file.txt"
+          ],
+          "typeOfMGAs": [
+            "43027846"
+          ],
+          "callIdentifier": [
+            "HORIZON-MISS-2026-01"
+          ],
+          "ccm2Id": [
+            "48336424"
+          ],
+          "callccm2Id": [
+            "48336798"
+          ],
+          "DATASOURCE": [
+            "SEDIA"
+          ],
+          "REFERENCE": [
+            "48336424TOPICSbg"
+          ],
+          "links": [
+            "[{\"callIdentifier\":\"HORIZON-MISS-2025-07\",\"criterionCode\":\"HORIZON-RIA\",\"criterionDescription\":\"HORIZON  Research and Innovation Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43005?topic\\u003dHORIZON-MISS-2026-07-CROSS-02\",\"startDate\":\"1765238400000\",\"endDate\":\"1774915200000\",\"mgaDescription\":\"HORIZON Action Grant Budget-Based\",\"mgaCode\":\"HORIZON-AG\"}]"
+          ],
+          "callTitle": [
+            "Cross-cutting activities"
+          ],
+          "frameworkProgramme": [
+            "43108390"
+          ],
+          "descriptionByte": [
+            "<span class=\"topicdescriptionkind\">Expected Outcome:</span><ul level=\"0\"><li>The missions’ stakeholder communities are better aware of the diversity of risk perception and risk management strategies related to technological and non-technological innovations among them.</li><li>European, national, regional and philanthropic funders can better address barriers (socio-technical, economic, cultural, and regulatory) to the achievement of mission objectives by strengthening stakeholder groups’ specific risk management strategies.</li><li>Improved understanding and removal of barriers to scaling up innovative solutions relevant to EU Missions. </li> </ul><p><strong>Scope</strong>:</p><p><span style=\"color:black\">This call aims to identify and address the barriers preventing the scaling and deployment of innovative technologies and non-technological innovations that support the five EU Missions in achieving their objectives. The analysis should notably consider how the risk perception and risk management strategies of diverse stakeholder groups affects the scalability of innovations in the context of EU Missions. By integrating insights from Social Sciences, and Humanities, projects will explore </span><span style=\"color:black\">socio-technical, economic, cultural, and regulatory</span> challenges to unlock the full potential of existing, performant but underutilised solutions.</p><p>This call invites research-led interdisciplinary consortia to investigate the barriers (socio-technical, economic, cultural, and regulatory) that impede the scaling of technological and non-technological solutions. The projects activities shall cover all five EU Missions.</p><p>Proposals should create a better understanding of socio-technical barriers based on investigations of risk perception and risk management related to technological and non-technological innovations. This shall include risk perception and risk management in regulatory and governance bodies, and the identification of socio-technical path dependencies in the context of missions. This shall include, without being limited by:</p><ul level=\"0\"><li>Exemplary assessment of stakeholders perception of the social, economic, and environmental effects of innovations in missions settings.</li><li>Exemplary assessment of examples of behavioural and systemic change as a result of shifting patterns of thought of risk and risk management and action, and experiment with new ways to drive transformation.</li><li>Analyses of the role of experimentation (including by ‘culturally aware and emotional nudging’) to change risk perception and management as means of knowledge production and communication. </li> </ul><p>Projects should feed their insights to other EU mission projects, including those working on the topic “Advancing lead markets and proof-of-concept for deep tech solutions contributing to EU Missions.”</p>"
+          ],
+          "identifier": [
+            "HORIZON-MISS-2026-07-CROSS-02"
+          ],
+          "es_ContentType": [
+            "text/plain"
+          ],
+          "programmeDivision": [
+            "43120193",
+            "43108541",
+            "43108390"
+          ],
+          "crossCuttingPriorities": [],
+          "esDA_FirstIngestDate": [
+            "2025-12-10T11:01:59.198+0100"
+          ],
+          "programmePeriod": [
+            "2021 - 2027"
+          ],
+          "deadlineDate": [
+            "2026-03-31T00:00:00.000+0000"
+          ],
+          "esDA_IngestDate": [
+            "2025-12-10T11:01:59.198+0100"
+          ],
+          "typesOfAction": [
+            "HORIZON  Research and Innovation Actions"
+          ],
+          "url": [
+            "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-02"
+          ],
+          "es_Combine": [
+            "1"
+          ],
+          "esST_URL": [
+            "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-02"
+          ],
+          "tags": [
+            "Behavioural Change",
+            "Cultural Narratives",
+            "Digital Technologies",
+            "Innovation Deployment",
+            "Interdisciplinary Research",
+            "Regulatory Frameworks",
+            "Socio-economic Impacts",
+            "Socio-technical Barriers",
+            "Stakeholder Engagement",
+            "Technology Adoption"
+          ],
+          "esDA_QueueDate": [
+            "2025-12-10T11:01:59.173+0100"
+          ],
+          "actions": [
+            "[{\"types\":[{\"typeOfAction\":\"HORIZON-RIA HORIZON  Research and Innovation Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2025-12-09\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-03-31\"]}]"
+          ],
+          "allowPartnerSearch": [
+            "true"
+          ],
+          "budgetOverview": [
+            "{\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"110721\":[{\"action\":\"HORIZON-MISS-2026-07-CROSS-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":1000000,\"maxContribution\":1000000,\"budgetYearMap\":{\"2025\":\"1000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-03-31\"]}],\"110723\":[{\"action\":\"HORIZON-MISS-2026-07-CROSS-03 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":2,\"minContribution\":4000000,\"maxContribution\":4000000,\"budgetYearMap\":{\"2025\":\"8000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-03-31\"]}],\"110722\":[{\"action\":\"HORIZON-MISS-2026-07-CROSS-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":2000000,\"maxContribution\":2000000,\"budgetYearMap\":{\"2025\":\"2000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-03-31\"]}]}}"
+          ],
+          "startDate": [
+            "2025-12-09T00:00:00.000+0000"
+          ],
+          "deadlineModel": [
+            "single-stage"
+          ],
+          "specificObjective": [],
+          "supportInfo": [
+            "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+          ],
+          "status": [
+            "31094502"
+          ]
+        },
+        "enrichedMetadata": {},
+        "children": [],
+        "highlightedFragments": []
+      },
+      "unique_key": "|HORIZON-MISS-2026-07-CROSS-02|48336798|bg",
+      "programme": "HORIZON",
+      "group_value": "CROSS"
+    },
+    {
+      "identifier": "HORIZON-MISS-2026-07-CROSS-02",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-02",
+      "topic_title": "Understanding and overcoming barriers to the scale-up of innovations supporting EU Missions",
+      "call_title": "Cross-cutting activities",
+      "call_identifier": "HORIZON-MISS-2026-01",
+      "type_of_action": "HORIZON  Research and Innovation Actions",
+      "min_contribution": 0.0,
+      "max_contribution": 0.0,
+      "indicative_budget": 0.0,
+      "indicative_number_of_projects": null,
+      "destinationDescription": "",
+      "destinationDescription_text": "",
+      "opening_date": "",
+      "deadline": "2026-03-31T00:00:00+00:00",
+      "status": "",
+      "deadline_model": "",
+      "tags": [
+        "Behavioural Change",
+        "Cultural Narratives",
+        "Digital Technologies",
+        "Innovation Deployment",
+        "Interdisciplinary Research",
+        "Regulatory Frameworks",
+        "Socio-economic Impacts",
+        "Socio-technical Barriers",
+        "Stakeholder Engagement",
+        "Technology Adoption"
+      ],
+      "keywords": [
+        "HORIZON-MISS-2026-07-CROSS-02",
+        "HORIZON-MISS-2026-01",
+        "Emerging industries",
+        "Innovation strategies",
+        "Innovation support services",
+        "Regulatory framework for innovation",
+        "Technology implementation"
+      ],
+      "raw": {
+        "apiVersion": "2.143.3",
+        "reference": "48336424TOPICSen",
+        "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-02",
+        "title": null,
+        "contentType": "text/plain",
+        "language": "en",
+        "databaseLabel": "SEDIA",
+        "database": "SEDIA",
+        "summary": "Understanding and overcoming barriers to the scale-up of innovations supporting EU Missions",
+        "weight": 14.758336,
+        "groupById": "1",
+        "content": "Understanding and overcoming barriers to the scale-up of innovations supporting EU Missions",
+        "accessRestriction": false,
+        "pages": null,
+        "checksum": "204971FDEBCDED238A283705E92904835875EC38469CFD77A98BE49AD7815B8C",
+        "metadata": {
+          "latestInfos": [
+            "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-12-10T10:47:12.020\",\"content\":\"The submission session is now available for: HORIZON-MISS-2026-07-CROSS-01, HORIZON-MISS-2026-07-CROSS-02, HORIZON-MISS-2026-07-CROSS-03\"}]"
+          ],
+          "es_SortDate": [
+            "2025-12-09T00:00:00.000+0000"
+          ],
+          "sepTemplate": [
+            "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+          ],
+          "keywords": [
+            "HORIZON-MISS-2026-07-CROSS-02",
+            "HORIZON-MISS-2026-01",
+            "Emerging industries",
+            "Innovation strategies",
+            "Innovation support services",
+            "Regulatory framework for innovation",
+            "Technology implementation"
+          ],
+          "sortStatus": [
+            "1"
+          ],
+          "language": [
+            "en"
+          ],
+          "topicConditions": [
+            "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p><p><strong><em>DELETE ME</em></strong> Please add hyperlinks as embedded links where needed (underscored text). Send the call document through the <a href=\"https://t-rex.net1.cec.eu.int/call-publication-form/\" rel=\"noopener noreferrer\" target=\"_blank\">document publication form</a> to receive the hyperlink within 2 business days max. <strong><em>DELETE ME</em></strong></p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the [specific topic of the Work Programme]</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE RIA, IA)</a> </p><p><br></br></p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-1-general-introduction_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-12-missions_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 – 14. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a> </p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+          ],
+          "title": [
+            "Understanding and overcoming barriers to the scale-up of innovations supporting EU Missions"
+          ],
+          "type": [
+            "1"
+          ],
+          "esST_checksum": [
+            "204971FDEBCDED238A283705E92904835875EC38469CFD77A98BE49AD7815B8C"
+          ],
+          "focusArea": [],
+          "esST_FileName": [
+            "file.txt"
+          ],
+          "typeOfMGAs": [
+            "43027846"
+          ],
+          "callIdentifier": [
+            "HORIZON-MISS-2026-01"
+          ],
+          "ccm2Id": [
+            "48336424"
+          ],
+          "callccm2Id": [
+            "48336798"
+          ],
+          "DATASOURCE": [
+            "SEDIA"
+          ],
+          "REFERENCE": [
+            "48336424TOPICSen"
+          ],
+          "links": [
+            "[{\"callIdentifier\":\"HORIZON-MISS-2025-07\",\"criterionCode\":\"HORIZON-RIA\",\"criterionDescription\":\"HORIZON  Research and Innovation Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43005?topic\\u003dHORIZON-MISS-2026-07-CROSS-02\",\"startDate\":\"1765238400000\",\"endDate\":\"1774915200000\",\"mgaDescription\":\"HORIZON Action Grant Budget-Based\",\"mgaCode\":\"HORIZON-AG\"}]"
+          ],
+          "callTitle": [
+            "Cross-cutting activities"
+          ],
+          "frameworkProgramme": [
+            "43108390"
+          ],
+          "descriptionByte": [
+            "<span class=\"topicdescriptionkind\">Expected Outcome:</span><ul level=\"0\"><li>The missions’ stakeholder communities are better aware of the diversity of risk perception and risk management strategies related to technological and non-technological innovations among them.</li><li>European, national, regional and philanthropic funders can better address barriers (socio-technical, economic, cultural, and regulatory) to the achievement of mission objectives by strengthening stakeholder groups’ specific risk management strategies.</li><li>Improved understanding and removal of barriers to scaling up innovative solutions relevant to EU Missions. </li> </ul><p><strong>Scope</strong>:</p><p><span style=\"color:black\">This call aims to identify and address the barriers preventing the scaling and deployment of innovative technologies and non-technological innovations that support the five EU Missions in achieving their objectives. The analysis should notably consider how the risk perception and risk management strategies of diverse stakeholder groups affects the scalability of innovations in the context of EU Missions. By integrating insights from Social Sciences, and Humanities, projects will explore </span><span style=\"color:black\">socio-technical, economic, cultural, and regulatory</span> challenges to unlock the full potential of existing, performant but underutilised solutions.</p><p>This call invites research-led interdisciplinary consortia to investigate the barriers (socio-technical, economic, cultural, and regulatory) that impede the scaling of technological and non-technological solutions. The projects activities shall cover all five EU Missions.</p><p>Proposals should create a better understanding of socio-technical barriers based on investigations of risk perception and risk management related to technological and non-technological innovations. This shall include risk perception and risk management in regulatory and governance bodies, and the identification of socio-technical path dependencies in the context of missions. This shall include, without being limited by:</p><ul level=\"0\"><li>Exemplary assessment of stakeholders perception of the social, economic, and environmental effects of innovations in missions settings.</li><li>Exemplary assessment of examples of behavioural and systemic change as a result of shifting patterns of thought of risk and risk management and action, and experiment with new ways to drive transformation.</li><li>Analyses of the role of experimentation (including by ‘culturally aware and emotional nudging’) to change risk perception and management as means of knowledge production and communication. </li> </ul><p>Projects should feed their insights to other EU mission projects, including those working on the topic “Advancing lead markets and proof-of-concept for deep tech solutions contributing to EU Missions.”</p>"
+          ],
+          "identifier": [
+            "HORIZON-MISS-2026-07-CROSS-02"
+          ],
+          "es_ContentType": [
+            "text/plain"
+          ],
+          "programmeDivision": [
+            "43120193",
+            "43108541",
+            "43108390"
+          ],
+          "crossCuttingPriorities": [],
+          "esDA_FirstIngestDate": [
+            "2025-12-10T11:01:51.398+0100"
+          ],
+          "programmePeriod": [
+            "2021 - 2027"
+          ],
+          "deadlineDate": [
+            "2026-03-31T00:00:00.000+0000"
+          ],
+          "esDA_IngestDate": [
+            "2025-12-10T11:01:51.398+0100"
+          ],
+          "typesOfAction": [
+            "HORIZON  Research and Innovation Actions"
+          ],
+          "url": [
+            "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-02"
+          ],
+          "es_Combine": [
+            "1"
+          ],
+          "esST_URL": [
+            "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-02"
+          ],
+          "tags": [
+            "Behavioural Change",
+            "Cultural Narratives",
+            "Digital Technologies",
+            "Innovation Deployment",
+            "Interdisciplinary Research",
+            "Regulatory Frameworks",
+            "Socio-economic Impacts",
+            "Socio-technical Barriers",
+            "Stakeholder Engagement",
+            "Technology Adoption"
+          ],
+          "cenTagsA": [
+            "TOPICS-016501",
+            "TOPICS-016502",
+            "TOPICS-016503",
+            "TOPICS-005017",
+            "TOPICS-005972",
+            "TOPICS-016504",
+            "TOPICS-016505",
+            "TOPICS-002284",
+            "TOPICS-016506",
+            "TOPICS-016507",
+            "TOPICS-013730",
+            "TOPICS-016508",
+            "TOPICS-016509",
+            "TOPICS-000878",
+            "TOPICS-002712",
+            "TOPICS-005342",
+            "TOPICS-001182",
+            "TOPICS-004547"
+          ],
+          "esDA_QueueDate": [
+            "2025-12-10T11:01:51.383+0100"
+          ],
+          "actions": [
+            "[{\"types\":[{\"typeOfAction\":\"HORIZON-RIA HORIZON  Research and Innovation Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2025-12-09\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-03-31\"]}]"
+          ],
+          "allowPartnerSearch": [
+            "true"
+          ],
+          "budgetOverview": [
+            "{\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"110721\":[{\"action\":\"HORIZON-MISS-2026-07-CROSS-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":1000000,\"maxContribution\":1000000,\"budgetYearMap\":{\"2025\":\"1000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-03-31\"]}],\"110723\":[{\"action\":\"HORIZON-MISS-2026-07-CROSS-03 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":2,\"minContribution\":4000000,\"maxContribution\":4000000,\"budgetYearMap\":{\"2025\":\"8000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-03-31\"]}],\"110722\":[{\"action\":\"HORIZON-MISS-2026-07-CROSS-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":2000000,\"maxContribution\":2000000,\"budgetYearMap\":{\"2025\":\"2000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-03-31\"]}]}}"
+          ],
+          "startDate": [
+            "2025-12-09T00:00:00.000+0000"
+          ],
+          "deadlineModel": [
+            "single-stage"
+          ],
+          "specificObjective": [],
+          "supportInfo": [
+            "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+          ],
+          "status": [
+            "31094502"
+          ]
+        },
+        "enrichedMetadata": {},
+        "children": [],
+        "highlightedFragments": []
+      },
+      "unique_key": "|HORIZON-MISS-2026-07-CROSS-02|48336798|en",
+      "programme": "HORIZON",
+      "group_value": "CROSS"
+    },
+    {
+      "identifier": "HORIZON-MISS-2026-07-CROSS-03",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-03",
+      "topic_title": "Advancing lead markets and proof-of-concept for deep tech solutions contributing to EU Missions",
+      "call_title": "Cross-cutting activities",
+      "call_identifier": "HORIZON-MISS-2026-01",
+      "type_of_action": "HORIZON Innovation Actions",
+      "min_contribution": 0.0,
+      "max_contribution": 0.0,
+      "indicative_budget": 0.0,
+      "indicative_number_of_projects": null,
+      "destinationDescription": "",
+      "destinationDescription_text": "",
+      "opening_date": "",
+      "deadline": "2026-03-31T00:00:00+00:00",
+      "status": "",
+      "deadline_model": "",
+      "tags": [
+        "Deep Tech Solutions",
+        "EU Competitiveness",
+        "Innovation Scaling",
+        "Lead Markets",
+        "Proof-of-Concept",
+        "SSH Integration",
+        "Technology Adoption"
+      ],
+      "keywords": [
+        "HORIZON-MISS-2026-07-CROSS-03",
+        "HORIZON-MISS-2026-01",
+        "Disruptive innovation",
+        "Innovation strategies",
+        "Innovation support services"
+      ],
+      "raw": {
+        "apiVersion": "2.143.3",
+        "reference": "48336445TOPICSen",
+        "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-03",
+        "title": null,
+        "contentType": "text/plain",
+        "language": "en",
+        "databaseLabel": "SEDIA",
+        "database": "SEDIA",
+        "summary": "Advancing lead markets and proof-of-concept for deep tech solutions contributing to EU Missions",
+        "weight": 14.757494,
+        "groupById": "1",
+        "content": "Advancing lead markets and proof-of-concept for deep tech solutions contributing to EU Missions",
+        "accessRestriction": false,
+        "pages": null,
+        "checksum": "FCD37360641FDCF0F66C3B20D6974535FEB160636E7E38B1BE07141EAEA4BDEF",
+        "metadata": {
+          "latestInfos": [
+            "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-12-10T10:47:12.022\",\"content\":\"The submission session is now available for: HORIZON-MISS-2026-07-CROSS-01, HORIZON-MISS-2026-07-CROSS-02, HORIZON-MISS-2026-07-CROSS-03\"}]"
+          ],
+          "es_SortDate": [
+            "2025-12-09T00:00:00.000+0000"
+          ],
+          "sepTemplate": [
+            "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+          ],
+          "keywords": [
+            "HORIZON-MISS-2026-07-CROSS-03",
+            "HORIZON-MISS-2026-01",
+            "Disruptive innovation",
+            "Innovation strategies",
+            "Innovation support services"
+          ],
+          "sortStatus": [
+            "1"
+          ],
+          "language": [
+            "en"
+          ],
+          "topicConditions": [
+            "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p><p><strong><em>DELETE ME</em></strong> Please add hyperlinks as embedded links where needed (underscored text). Send the call document through the <a href=\"https://t-rex.net1.cec.eu.int/call-publication-form/\" rel=\"noopener noreferrer\" target=\"_blank\">document publication form</a> to receive the hyperlink within 2 business days max. <strong><em>DELETE ME</em></strong></p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).</p></div><div class=\"eui-u-mt-s\"><p>The specific conditions for actions with PCP/PPI procurements in section H of the General Annexes apply to grants funded under this topic.</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the [specific topic of the Work Programme]</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE RIA, IA)</a> </p><p><br></br></p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-1-general-introduction_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-12-missions_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 – 14. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+          ],
+          "title": [
+            "Advancing lead markets and proof-of-concept for deep tech solutions contributing to EU Missions"
+          ],
+          "type": [
+            "1"
+          ],
+          "esST_checksum": [
+            "FCD37360641FDCF0F66C3B20D6974535FEB160636E7E38B1BE07141EAEA4BDEF"
+          ],
+          "focusArea": [],
+          "esST_FileName": [
+            "file.txt"
+          ],
+          "typeOfMGAs": [
+            "43027846"
+          ],
+          "callIdentifier": [
+            "HORIZON-MISS-2026-01"
+          ],
+          "ccm2Id": [
+            "48336445"
+          ],
+          "callccm2Id": [
+            "48336798"
+          ],
+          "DATASOURCE": [
+            "SEDIA"
+          ],
+          "REFERENCE": [
+            "48336445TOPICSen"
+          ],
+          "links": [
+            "[{\"callIdentifier\":\"HORIZON-MISS-2025-07\",\"criterionCode\":\"HORIZON-IA\",\"criterionDescription\":\"HORIZON Innovation Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43004?topic\\u003dHORIZON-MISS-2026-07-CROSS-03\",\"startDate\":\"1765238400000\",\"endDate\":\"1774915200000\",\"mgaDescription\":\"HORIZON Action Grant Budget-Based\",\"mgaCode\":\"HORIZON-AG\"}]"
+          ],
+          "callTitle": [
+            "Cross-cutting activities"
+          ],
+          "frameworkProgramme": [
+            "43108390"
+          ],
+          "descriptionByte": [
+            "<span class=\"topicdescriptionkind\">Expected Outcome:</span><p><strong>Expected outcomes</strong>:</p><ul level=\"0\"><li>Stakeholders in Missions on European, national and regional level embrace their roles as actors in ‘<em>lead markets for innovative products and services with a purpose</em>’ that are provided by public investments in mission objectives.</li><li>Some cutting-edge technologies at lower technology levels (i.e. not yet at product development stage) potentially relevant to EU Missions are advanced towards market entry by appropriate tools (for example ‘proof concept’, ‘procurement of innovation’ or others)</li><li>A better alignment between public procurement, private investment, and missions’ requirement fosters favourable conditions for creation of lead markets.</li> </ul><p><strong>Scope</strong>:</p><p>This call aims to accelerate the scaling and deployment of innovative technologies by leveraging EU Missions as catalysts for lead markets. It will support both public and private stakeholders in fostering demand-driven innovation while developing proof-of-concept for deep tech solutions relevant to the Missions. By integrating Social Sciences and Humanities insights, the call will also address barriers to market uptake, risk perception, and stakeholder engagement to create enabling conditions for investment in high-impact technologies.</p><p>Proposals should aim at:</p><ul level=\"0\"><li>Scaling up innovations: develop proof-of-concept for deep tech solutions that have the potential to address EU Mission challenges (up to TRL 7).</li><li>Enabling lead markets for mission-driven technologies: identify and test models that mobilise public and private stakeholders to create demand for emerging solutions, ensuring alignment with public interests (e.g., workplace safety, risk management, procurement strategies).</li><li>Mobilising resources to experiment innovative procurement and financing models - like procurement of innovation, competitive dialogue or other innovation friendly procurement methods - to develop and test innovative regulatory, policy, and financial mechanisms to accelerate the uptake of high-risk, high-reward technologies in public services markets. </li> </ul><p>Maximum 50% of the grant awarded can be used to support actual procurement of solutions by public service companies preferentially in small projects and supporting maximum of 25% of the procurement. Prior agreement with EU commission services is required in due time.</p><p>Projects should take into account relevant insights from the projects working on the topic “Understanding and overcoming barriers to the scale-up of technologies supporting EU Missions.”</p><p>Projects should cover ideally all missions, and preference will be given to proposals covering several missions.</p>"
+          ],
+          "identifier": [
+            "HORIZON-MISS-2026-07-CROSS-03"
+          ],
+          "es_ContentType": [
+            "text/plain"
+          ],
+          "programmeDivision": [
+            "43118971",
+            "43120193"
+          ],
+          "crossCuttingPriorities": [],
+          "esDA_FirstIngestDate": [
+            "2025-12-10T11:01:51.599+0100"
+          ],
+          "programmePeriod": [
+            "2021 - 2027"
+          ],
+          "deadlineDate": [
+            "2026-03-31T00:00:00.000+0000"
+          ],
+          "esDA_IngestDate": [
+            "2025-12-10T11:01:51.599+0100"
+          ],
+          "typesOfAction": [
+            "HORIZON Innovation Actions"
+          ],
+          "url": [
+            "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-03"
+          ],
+          "es_Combine": [
+            "1"
+          ],
+          "esST_URL": [
+            "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-03"
+          ],
+          "tags": [
+            "Deep Tech Solutions",
+            "EU Competitiveness",
+            "Innovation Scaling",
+            "Lead Markets",
+            "Proof-of-Concept",
+            "SSH Integration",
+            "Technology Adoption"
+          ],
+          "cenTagsA": [
+            "TOPICS-016510",
+            "TOPICS-016511",
+            "TOPICS-016512",
+            "TOPICS-016513",
+            "TOPICS-016514",
+            "TOPICS-016515",
+            "TOPICS-016516",
+            "TOPICS-016517",
+            "TOPICS-016518",
+            "TOPICS-016509",
+            "TOPICS-002712",
+            "TOPICS-004547",
+            "TOPICS-001731"
+          ],
+          "esDA_QueueDate": [
+            "2025-12-10T11:01:51.582+0100"
+          ],
+          "actions": [
+            "[{\"types\":[{\"typeOfAction\":\"HORIZON-IA HORIZON Innovation Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2025-12-09\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-03-31\"]}]"
+          ],
+          "allowPartnerSearch": [
+            "true"
+          ],
+          "budgetOverview": [
+            "{\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"110721\":[{\"action\":\"HORIZON-MISS-2026-07-CROSS-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":1000000,\"maxContribution\":1000000,\"budgetYearMap\":{\"2025\":\"1000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-03-31\"]}],\"110723\":[{\"action\":\"HORIZON-MISS-2026-07-CROSS-03 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":2,\"minContribution\":4000000,\"maxContribution\":4000000,\"budgetYearMap\":{\"2025\":\"8000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-03-31\"]}],\"110722\":[{\"action\":\"HORIZON-MISS-2026-07-CROSS-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":2000000,\"maxContribution\":2000000,\"budgetYearMap\":{\"2025\":\"2000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-03-31\"]}]}}"
+          ],
+          "startDate": [
+            "2025-12-09T00:00:00.000+0000"
+          ],
+          "deadlineModel": [
+            "single-stage"
+          ],
+          "specificObjective": [],
+          "supportInfo": [
+            "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+          ],
+          "status": [
+            "31094502"
+          ]
+        },
+        "enrichedMetadata": {},
+        "children": [],
+        "highlightedFragments": []
+      },
+      "unique_key": "|HORIZON-MISS-2026-07-CROSS-03|48336798|en",
+      "programme": "HORIZON",
+      "group_value": "CROSS"
+    }
+  ],
+  "HORIZON-MISS-2027-06": [
+    {
+      "identifier": "HORIZON-MISS-2027-06-SOIL-CANCER",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-06-SOIL-CANCER",
+      "topic_title": "Living labs to monitor and mitigate carcinogenic substances in and originating from soils: Evaluating their effects on human cancer risks",
+      "call_title": "Joint Call between the Soil Deal for Europe Mission and the Cancer Mission",
+      "call_identifier": "HORIZON-MISS-2027-06",
+      "type_of_action": "HORIZON  Research and Innovation Actions",
+      "min_contribution": 0.0,
+      "max_contribution": 0.0,
+      "indicative_budget": 0.0,
+      "indicative_number_of_projects": null,
+      "destinationDescription": "",
+      "destinationDescription_text": "",
+      "opening_date": "",
+      "deadline": "2027-09-21T00:00:00+00:00",
+      "status": "",
+      "deadline_model": "",
+      "tags": [
+        "Carcinogenic substances from soils",
+        "Human cancer",
+        "Human cancer risks",
+        "Human health",
+        "Integrated sciences",
+        "Interdisciplinary",
+        "Living labs",
+        "Monitor carcinogenic substances",
+        "Multi actor approach",
+        "Oncology",
+        "Soil health",
+        "Soil organisms",
+        "Transdisciplinary"
+      ],
+      "keywords": [
+        "HORIZON-MISS-2027-06-SOIL-CANCER",
+        "HORIZON-MISS-2027-06",
+        "Oncology",
+        "Soil biodiversity",
+        "Soil biology",
+        "Soil chemistry",
+        "Soil science",
+        "Soilborne pathogens"
+      ],
+      "raw": {
+        "apiVersion": "2.143.3",
+        "reference": "50139152TOPICSen",
+        "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-06-SOIL-CANCER",
+        "title": null,
+        "contentType": "text/plain",
+        "language": "en",
+        "databaseLabel": "SEDIA",
+        "database": "SEDIA",
+        "summary": "Living labs to monitor and mitigate carcinogenic substances in and originating from soils: Evaluating their effects on human cancer risks",
+        "weight": 14.830643,
+        "groupById": "2",
+        "content": "Living labs to monitor and mitigate carcinogenic substances in and originating from soils: Evaluating their effects on human cancer risks",
+        "accessRestriction": false,
+        "pages": null,
+        "checksum": "C360F98349759B8332D6A0AF6927D3A04D84995ACB1DAAD87A4CAE586294B8B8",
+        "metadata": {
+          "latestInfos": [
+            "[]"
+          ],
+          "es_SortDate": [
+            "2027-02-04T00:00:00.000+0000"
+          ],
+          "sepTemplate": [
+            "<p>The submission system is planned to be opened on the date stated on the topic header.</p>"
+          ],
+          "keywords": [
+            "HORIZON-MISS-2027-06-SOIL-CANCER",
+            "HORIZON-MISS-2027-06",
+            "Oncology",
+            "Soil biodiversity",
+            "Soil biology",
+            "Soil chemistry",
+            "Soil science",
+            "Soilborne pathogens"
+          ],
+          "sortStatus": [
+            "2"
+          ],
+          "language": [
+            "en"
+          ],
+          "topicConditions": [
+            "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p><strong><em>﻿</em></strong>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>Proposals must apply the multi-actor approach. See definition of the multi-actor approach in the introduction to the Mission Soil work programme part.</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>Beneficiaries may provide financial support to third parties to facilitate active involvement of smaller actors (e.g. land managers and owners such as farmers, SMEs or civil society) in one or more of the living labs of the project. The support to third parties can only be provided in the form of grants (further to calls or, if duly justified, without a call for proposals). The maximum amount to be granted to each third party is EUR 60 000.</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the [specific topic of the Work Programme]</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE RIA, IA)</a></p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE RIA, IA)</a>&#xa0;</p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-financial-support-to-third-parties_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on financial support to third parties (HE)</a>&#xa0;</p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a> </p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+          ],
+          "title": [
+            "Living labs to monitor and mitigate carcinogenic substances in and originating from soils: Evaluating their effects on human cancer risks"
+          ],
+          "type": [
+            "1"
+          ],
+          "esST_checksum": [
+            "C360F98349759B8332D6A0AF6927D3A04D84995ACB1DAAD87A4CAE586294B8B8"
+          ],
+          "focusArea": [],
+          "esST_FileName": [
+            "file.txt"
+          ],
+          "typeOfMGAs": [
+            "43027846"
+          ],
+          "callIdentifier": [
+            "HORIZON-MISS-2027-06"
+          ],
+          "ccm2Id": [
+            "50139152"
+          ],
+          "callccm2Id": [
+            "50139194"
+          ],
+          "DATASOURCE": [
+            "SEDIA"
+          ],
+          "REFERENCE": [
+            "50139152TOPICSen"
+          ],
+          "links": [
+            "[]"
+          ],
+          "callTitle": [
+            "Joint Call between the Soil Deal for Europe Mission and the Cancer Mission"
+          ],
+          "frameworkProgramme": [
+            "43108390"
+          ],
+          "descriptionByte": [
+            "<span class=\"topicdescriptionkind\">Expected Outcome:</span><p>Activities under this topic will directly progress towards the goal of the <a href=\"https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/eu-missions-horizon-europe/soil-deal-europe_en\">Mission Soil</a> to set up 100 living labs and lighthouses to lead the transition to healthy soils by 2030. Activities will also contribute to the goal of the Cancer Mission, i.e.: ‘to improve the lives of more than 3 million people by 2030, through prevention, cure and for those affected by cancer including their families, to live longer and better’. Activities should also contribute to meeting the European Green Deal ambitions and targets and more specifically those of the <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52020DC0380\">EU Biodiversity Strategy for 2030</a>, the <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021DC0699\">EU Soil Strategy for 2030, </a>the <a href=\"https://environment.ec.europa.eu/topics/soil-and-land/soil-health_en\">proposal for a Soil Monitoring and Resilience Directive</a>, the <a href=\"https://environment.ec.europa.eu/strategy/zero-pollution-action-plan_en\">Zero Pollution Action Plan</a>, the <a href=\"https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/promoting-our-european-way-life/european-health-union/cancer-plan-europe_en\">Europe's Beating Cancer Plan</a>, the <a href=\"https://health.ec.europa.eu/one-health_en\">One Health approach,</a> the <a href=\"https://health.ec.europa.eu/system/files/2020-01/amr_2017_action-plan_0.pdf\">European Health Data Space</a>, the <a href=\"https://environment.ec.europa.eu/strategy/chemicals-strategy_en\">Chemicals Strategy for Sustainabilit</a>y, the <a href=\"https://single-market-economy.ec.europa.eu/publications/european-chemicals-industry-action-plan_en\">European Chemicals Industry Action Plan</a>, as well as to the Sustainable Development Goals<sup>[1]</sup>.</p><p>Project results are expected to contribute to <u>all</u> the following expected outcomes:</p><ul level=\"0\"><li>increased capacities for participatory, interdisciplinary and transdisciplinary research and innovation to co-create, and co-implement economically viable soil health solutions tailored to soils contaminated with or at risk of contamination by carcinogenic substances;</li><li>enhanced understanding of the environmental pathways through which these substances affect humans and the food chain, and the links (drivers and processes) between carcinogenic substances<sup>[2]</sup> in soil and cancer incidence, mortality and prevalence in humans.</li> </ul><span class=\"topicdescriptionkind\">Scope:</span><p>Environmental and occupational cancer risks are estimated to contribute to over 10% of the total cancer burden in Europe, with soil pollution by carcinogenic substances, such as PFAS, and heavy metals like arsenic and cadmium, posing significant concerns for human and environmental health<sup>[3]</sup>. However, the complex relationships between land management practices, soil parent material, soil properties, and presence of carcinogenic substances remain largely unknown. Moreover, significant knowledge gaps exist regarding biomonitoring, the bioaccumulation and transfer processes of soil pollutants into the food chain, water, and air, the pathways of human exposure and the impact of such exposure on cancer incidence, mortality and prevalence.</p><p>Projects under this topic are intended to expand and complement the network of Mission Soil living labs and lighthouses initiated with projects funded under Work Programmes 2023, 2024 and 2025 of the Mission Soil, with the aim of gradually establishing 100 living labs and lighthouses to lead the transition towards healthy soils by 2030.</p><p>The Mission Soil proposes a novel approach to research and innovation in the area of soil health, including the implementation of living labs. Living labs have the potential to facilitate a green and fair transition by involving multiple actors in real-life sites within a local/regional setting to co-create soil health solutions and achieve large-scale impacts on soil health and soil governance.</p><p>Living labs are long-term collaborations between multiple actors to address common soil health challenges in real-life sites at local or regional level (10 to 20 sites in each living lab). Living labs can address soil health challenges in or across different land uses (agricultural, (peri-)urban, (post)-industrial, forest and (semi-)natural). Depending on the level at which each living lab operates and the specific context (e.g. land use covered, or soil health challenge addressed), applicants can exceptionally propose living labs with fewer sites. Individual sites can be farms, forest holdings, urban green areas, industrial areas, etc. Sites that are exemplary in their performance in terms of soil health improvement and serve as places for demonstration of solutions, training and communication are lighthouses. Lighthouse sites can be part of a living lab or be situated outside a living lab. Projects funded under this topic are expected to kick-start the participatory process. If building on existing processes, the new proposed living labs should complement the existing network of Mission Soil Living Labs and deliver unique project results. While on average, projects run for around four years, the duration of the projects under this topic should accommodate longer timescales required to establish participatory processes and/or for soil processes to take place.</p><p>Actors working on common shared soil health challenges within and across the living labs of the same project, will be able to compare results, exchange good practices, validate methodologies, replicate actions and solutions and benefit from cross-fertilisation, thereby accelerating the transition towards the shared objective of improving soil health.</p><p>Proposals should:</p><ul level=\"0\"><li>support the establishment of four to five research-and-innovation-centred living labs to work together across different land uses to: 1) deliver research-based remediation solutions for soil contamination by carcinogenic substances; 2) investigate links between carcinogenic substances<sup>[2]</sup> in soil and transfer of pollutants from soil to humans (e.g. via air, water, or the food chain), and long-term impact on cancer incidence, mortality and prevalence in humans. Proposed solutions should be adapted to the different environmental, socio-economic and cultural contexts in which the living labs are operating. Living labs should be located in at least three different Member States and/or Associated Countries. Special attention should be given to their regions with the greatest need (hotspots of carcinogenic substances<sup>[5]</sup>). Proposals should explain the rationale and mechanism for cooperation within and across the living labs.</li><li>establish an interdisciplinary, participatory and multi-actor approach in the living labs to co-implement locally adapted solutions to isolate, immobilise, reduce and/or eliminate carcinogenic substances to and from soils, and to monitor how these solutions affect the pathways of carcinogenic substances in soils within the soil-water-air nexus and its mobility and uptake in the food chain;</li><li>establish for each living lab a baseline of the soil conditions (both naturally occurring and exogenous contaminants) to allow an accurate monitoring of soil health improvements over time and across the different sites of the living lab, as well as the impact of research-based remediation solutions on pathways of soil carcinogenic substances within the soil-water-air nexus and its mobility and uptake in the food chain. The set of soil health indicators/descriptors presented in the proposal for a <a href=\"https://environment.ec.europa.eu/publications/proposal-directive-soil-monitoring-and-resilience_en\">Directive on Soil Monitoring and Resilience</a> should be used as a basis; proposals may complement with additional indicators tailored to the addressed soil health challenge(s), pedoclimatic conditions, land use, and other local/regional factors;</li><li>analyse bioavailable fractions of contaminants, their potential bioaccumulation in crops; identify most critical exposure pathways of carcinogenic substances in soils within the soil-water-air nexus and its mobility and uptake in the food chain; analyse its correlation with the incidence and prevalence of cancer in humans across the different sites of the living labs using biomonitoring of contaminants (individually and in combination) in humans<sup>[6]</sup>, combine this research with model<u>l</u>ing and desk research, integrating environmental pollution data with health outcome data, for example using biomonitoring data from the European Human Biomonitoring Initiative <u>(</u><a href=\"https://cordis.europa.eu/project/id/733032\">HBM4EU</a>) or the Partnership for the Assessment of Risks from Chemicals (<a href=\"https://www.eu-parc.eu/\">PARC)</a>, from regional or national cancer registries and in collaboration with local health authorities, research institutions, and community organizations;</li><li>demonstrate the technical, social, economic, cultural and environmental viability of the proposed solutions, as well as their potential scalability and transferability to diverse contexts;</li><li>identify high performing sites that may be converted into lighthouses. Engage with the <a href=\"https://soill2030.eu/about-us\">SOILL</a> project to assess the growth and development of these lighthouses and to support the establishment of a labelling process that could formally recognize these exemplary sites as lighthouses;</li><li>propose strategies (e.g., financial, organisational) to ensure the long-term sustainability of the established living labs beyond Horizon Europe funding. Strategies should include business models and actions involving a mix of public or private funding schemes, financial instruments, cooperation with local authorities, engagement of social economy entities, social enterprises, business communities, SMEs, or attracting investors and entrepreneurs.</li> </ul><p>In line with the nature of living labs, projects must adopt the multi-actor approach. The actors involved in each living lab may vary based on its unique characteristics, and may include, among others, researchers, landowners or land managers, industry representatives (e.g. SMEs), public administrators and civil society (e.g. consumers, local residents, environmental NGOs, youth organisations). Care should be taken to describe the capabilities, roles and resources of the different actors involved in the living labs. An effective contribution of social sciences and humanities (SSH) is expected to foster social innovation, knowledge transfer and socio-cultural and behavioural change.</p><p>To encourage and facilitate the involvement of different types of actors in the living labs, applicants are reminded of the different types of participation possible in a project under Horizon Europe. This includes not only beneficiaries (or their affiliated entities) but also associated partners, third parties giving in-kind contributions, subcontractors and recipients of financial support to third parties<sup>[7]</sup>. Financial support to third parties (FSTP) to facilitate active involvement of small actors (e.g. land managers, landowners, SMEs or civil society) in one or more of the living labs of a project, can be provided through calls, or, if duly justified, without a call for proposals. Eligible activities that could be funded include those related to site management, implementation, or monitoring of soil health solutions, such as hourly rates for data collection, sampling, or participation in events, knowledge exchange, capacity building, or demonstration and awareness initiatives, as well as equipment and compensation for loss of production. Applicants are advised to consult the standard conditions set out in Annex B of the General Annexes, including those that apply to FSTP.</p><p>Dedicated tasks and appropriate resources should be envisioned to collaborate with <a href=\"https://soill2030.eu/about-us\">SOILL</a>, the structure created to support soil health living labs and lighthouses which offers significant capacity building opportunities for the living labs actors. Applicants can benefit from the services of <a href=\"https://soill2030.eu/about-us\">SOILL</a> already during the proposal preparation stage.</p><p>Applicants should take into consideration the work done under relevant related EU projects, including on endocrine disruptors and health (<a href=\"https://eurion-cluster.eu/\">EURION</a> and <a href=\"https://enkore-cluster.eu/\">ENKORE</a>), micro- and nano-plastics and health (<a href=\"https://cusp-research.eu/\">CUSP</a>), PFAS (<a href=\"https://promisces.eu/\">PROMISCES</a>, <a href=\"https://cordis.europa.eu/project/id/101037509/reporting\">SCENARIOS</a> and <a href=\"https://zeropm.eu/\">ZeroPM</a>), soil contamination (<a href=\"https://aragorn-horizon.eu/\">ARAGORN</a>) and other relevant Mission Soil projects. Work done by the <a href=\"https://knowledge4policy.ec.europa.eu/cancer_en\">Knowledge Centre on Cancer</a> should also be considered.</p><p>Dedicated tasks and appropriate resources should be envisioned to collaborate with the <a href=\"https://esdac.jrc.ec.europa.eu/euso\">EU Soil Observatory</a> (EUSO) and other relevant Mission Soil projects. In particular, proposals should ensure that relevant data, maps and information can potentially be available publicly through the EUSO maps and information can potentially be available publicly through the EUSO and the Cancer Data Space. Proposals should ensure that chemicals data generated within the proposal may be shared in the Common Data Platform for Chemicals and its services such as IPCHEM and environmental sustainability database. Concrete efforts should be made to ensure that the data produced in the context of the funded project is FAIR (Findable, Accessible, Interoperable and Re-usable).</p><p><strong>This action supports the follow-up to the July 2023 </strong><a href=\"https://mission-soil-platform.ec.europa.eu/resource-library/communication-commission-eu-missions-two-years-assessment-progress-and-way-forward\"><u>Communication on EU Missions assessment</u></a><u>.</u></p><p class=\"eui-u-font-s\">[1] In particular SDG 3- Good health and well-being, and SDG 15 – Life on Land.</p><p class=\"eui-u-font-s\">[2] Such as PFAS, heavy metals, and pesticides.</p><p class=\"eui-u-font-s\">[3] <a href=\"https://www.eea.europa.eu/publications/environmental-burden-of-cancer\">Beating cancer — the role of Europe’s environment — European Environment Agency</a></p><p class=\"eui-u-font-s\">[4] Such as PFAS, heavy metals, and pesticides.</p><p class=\"eui-u-font-s\">[5] <a href=\"https://www.eea.europa.eu/en/european-zero-pollution-dashboards/indicators/pfas-contamination-and-soil-remediation-signal\">PFAS contamination and soil remediation (Signal) | European zero pollution dashboards</a></p><p class=\"eui-u-font-s\">[6] <sup> </sup>Researchers must ensure that participants are fully aware of the purpose, risks, and benefits of the study and obtain their consent before proceeding.</p><p class=\"eui-u-font-s\">[7] To explore the full range of options including what type of costs and activities are eligible to be funded under Horizon Europe, applicants should refer to the AGA – Annotated Model Grant Agreement <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\">https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf</a></p>"
+          ],
+          "identifier": [
+            "HORIZON-MISS-2027-06-SOIL-CANCER"
+          ],
+          "es_ContentType": [
+            "text/plain"
+          ],
+          "programmeDivision": [
+            "43108557",
+            "43121563"
+          ],
+          "crossCuttingPriorities": [
+            "MultiActorApproach",
+            "DigitalAgenda",
+            "AI"
+          ],
+          "esDA_FirstIngestDate": [
+            "2025-12-12T00:02:03.284+0100"
+          ],
+          "programmePeriod": [
+            "2021 - 2027"
+          ],
+          "deadlineDate": [
+            "2027-09-21T00:00:00.000+0000"
+          ],
+          "esDA_IngestDate": [
+            "2025-12-12T00:02:03.284+0100"
+          ],
+          "typesOfAction": [
+            "HORIZON  Research and Innovation Actions"
+          ],
+          "url": [
+            "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-06-SOIL-CANCER"
+          ],
+          "es_Combine": [
+            "2"
+          ],
+          "esST_URL": [
+            "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-06-SOIL-CANCER"
+          ],
+          "tags": [
+            "Carcinogenic substances from soils",
+            "Human cancer",
+            "Human cancer risks",
+            "Human health",
+            "Integrated sciences",
+            "Interdisciplinary",
+            "Living labs",
+            "Monitor carcinogenic substances",
+            "Multi actor approach",
+            "Oncology",
+            "Soil health",
+            "Soil organisms",
+            "Transdisciplinary"
+          ],
+          "cenTagsA": [
+            "TOPICS-017219",
+            "TOPICS-010799",
+            "TOPICS-017220",
+            "TOPICS-017221",
+            "TOPICS-017222",
+            "TOPICS-010802",
+            "TOPICS-005716",
+            "TOPICS-017223",
+            "TOPICS-017224",
+            "TOPICS-001125",
+            "TOPICS-007391",
+            "TOPICS-003741",
+            "TOPICS-017225",
+            "TOPICS-017226",
+            "TOPICS-010808",
+            "TOPICS-010809",
+            "TOPICS-001490",
+            "TOPICS-017227",
+            "TOPICS-010812",
+            "TOPICS-010814",
+            "TOPICS-000822",
+            "TOPICS-004872",
+            "TOPICS-006085",
+            "TOPICS-017228"
+          ],
+          "esDA_QueueDate": [
+            "2025-12-12T00:02:03.271+0100"
+          ],
+          "actions": [
+            "[{\"types\":[{\"typeOfAction\":\"HORIZON-RIA HORIZON  Research and Innovation Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094501,\"abbreviation\":\"Forthcoming\",\"description\":\"Forthcoming\"},\"plannedOpeningDate\":\"2027-02-04\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2027-09-21\"]}]"
+          ],
+          "allowPartnerSearch": [
+            "true"
+          ],
+          "budgetOverview": [
+            "{\"budgetYearsColumns\":[\"2027\"],\"budgetTopicActionMap\":{\"113090\":[{\"action\":\"HORIZON-MISS-2027-06-SOIL-CANCER - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":2,\"minContribution\":12000000,\"maxContribution\":12000000,\"budgetYearMap\":{\"2027\":\"24000000\"},\"plannedOpeningDate\":\"2027-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2027-09-21\"]}]}}"
+          ],
+          "startDate": [
+            "2027-02-04T00:00:00.000+0000"
+          ],
+          "deadlineModel": [
+            "single-stage"
+          ],
+          "specificObjective": [],
+          "supportInfo": [
+            "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+          ],
+          "status": [
+            "31094501"
+          ]
+        },
+        "enrichedMetadata": {},
+        "children": [],
+        "highlightedFragments": []
+      },
+      "unique_key": "|HORIZON-MISS-2027-06-SOIL-CANCER|50139194|en",
+      "programme": "HORIZON",
+      "group_value": "HORIZON-MISS-2027-06"
+    }
+  ],
+  "PCP-CIT": [
+    {
+      "identifier": "HORIZON-MISS-2026-04-PCP-CIT-01",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-04-PCP-CIT-01",
+      "topic_title": "Boosting the transformation towards climate-neutral cities, the net-zero economy and open strategic autonomy through Pre-Commercial Procurement (PCP)",
+      "call_title": "Supporting the implementation of the Climate-Neutral and Smart Cities Mission",
+      "call_identifier": "HORIZON-MISS-2026-04-PCP",
+      "type_of_action": "HORIZON Pre-commercial Procurement",
+      "min_contribution": 0.0,
+      "max_contribution": 0.0,
+      "indicative_budget": 0.0,
+      "indicative_number_of_projects": null,
+      "destinationDescription": "",
+      "destinationDescription_text": "",
+      "opening_date": "",
+      "deadline": "2026-01-20T00:00:00+00:00",
+      "status": "",
+      "deadline_model": "",
+      "tags": [
+        "Innovation Procurement",
+        "Pre-Commercial Procurement",
+        "climate-neutral cities",
+        "competitiveness",
+        "decarbonisation",
+        "net-zero technologies",
+        "open strategic autonomy"
+      ],
+      "keywords": [
+        "HORIZON-MISS-2026-04-PCP-CIT-01",
+        "HORIZON-MISS-2026-04-PCP",
+        "Competitiveness, innovation, research and development",
+        "Decarbonisation",
+        "Green procurement",
+        "Innovative procurement"
+      ],
+      "raw": {
+        "apiVersion": "2.143.3",
+        "reference": "48335782TOPICSen",
+        "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-04-PCP-CIT-01",
+        "title": null,
+        "contentType": "text/plain",
+        "language": "en",
+        "databaseLabel": "SEDIA",
+        "database": "SEDIA",
+        "summary": "Boosting the transformation towards climate-neutral cities, the net-zero economy and open strategic autonomy through Pre-Commercial Procurement (PCP)",
+        "weight": 12.551753,
+        "groupById": "3",
+        "content": "Boosting the transformation towards climate-neutral cities, the net-zero economy and open strategic autonomy through Pre-Commercial Procurement (PCP)",
+        "accessRestriction": false,
+        "pages": null,
+        "checksum": "70FE633A5245B2B9AC6D04DB1316C3D10AFBBF9F371EE8480AE4C0AA6F91109F",
+        "metadata": {
+          "latestInfos": [
+            "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-01-26T11:45:45.232\",\"content\":\"\\u003cp\\u003eThe call for proposals HORIZON-MISS-2026-04-PCP-CIT-01 has closed on 20 January 2026. 11 proposals have been submitted. \\u003c/p\\u003e\\u003cp\\u003eEvaluation results are expected to be communicated in May/June 2026. \\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-01-15T14:55:25.323\",\"content\":\"\\u003cp\\u003e\\u003cem\\u003eAs call HORIZON-MISS-2026-04-PCP is from Horizon Europe Work Programme 2025, the relevant General Annexes apply:\\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cem\\u003e\\u003ca href\\u003d\\\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003ehttps://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\\u003c/a\\u003e\\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cem\\u003eApplicants are advised to use the dedicated versions of the application form template found in the application/submission form of their proposal.\\u003c/em\\u003e\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-06-18T09:02:33.907\",\"content\":\"The submission session is now available for: HORIZON-MISS-2026-04-PCP-CIT-01\"}]"
+          ],
+          "missionDetails": [
+            "<p>The Work Programme 2025 of the Climate-Neutral and Smart Cities Mission, in line with the <a href=\"https://research-and-innovation.ec.europa.eu/document/download/d2eb2069-3b4a-4015-9801-7daab749d31b_en?filename=cities_mission_implementation_plan.pdf\">Implementation Plan of the Cities Mission</a>, supports the implementation of the Mission by providing strong and direct support to cities committed to climate-neutrality, enabling them to implement their climate action plans and achieve climate-neutrality by 2030. The cities benefitting from these actions will act as experimentation and innovation hubs for other European cities aiming to become climate-neutral by 2050.</p><p>Cities’ green and digital transformation with the aim of climate-neutrality is associated with important co-benefits and urban qualities such as reduced air and noise pollution, more sustainable mobility, improved health and well-being, reduced urban environmental footprints, enhanced urban greening, more efficient use of energy and infrastructures, as well as improved waste and water management. It also improves policy coherence across sectors and stimulates participatory and inclusive decision-making.</p><p>Therefore, in addition to a significant contribution to the objective of the <a href=\"https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en\">European Green Deal</a> to make Europe climate-neutral by 2050 at the latest, the supported actions will also contribute to the <a href=\"https://sdgs.un.org/2030agenda\">UN Agenda 2030</a>, the <a href=\"https://www.urbanagenda.urban-initiative.eu/\">Urban Agenda for the EU</a>, the <a href=\"https://ec.europa.eu/regional_policy/en/newsroom/news/2020/12/12-08-2020-new-leipzig-charter-the-transformative-power-of-cities-for-the-common-good\">New Leipzig Charter</a>, the <a href=\"https://ec.europa.eu/commission/presscorner/detail/en/ip_21_3541\">Fit for 55 strategy</a>, the <a href=\"https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-industrial-strategy_en\">EU Industrial Strategy</a>, the <a href=\"https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/green-deal-industrial-plan_en\">Green Deal Industrial Plan</a> and the <a href=\"https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/green-deal-industrial-plan/net-zero-industry-act_en\">Net-Zero Industry Act</a>, the <a href=\"https://ec.europa.eu/environment/strategy/zero-pollution-action-plan_en\">EU Zero Pollution Action Plan</a>, the <a href=\"https://environment.ec.europa.eu/strategy/circular-economy-action-plan_en\">Circular Economy Action Plan</a>, the <a href=\"https://transport.ec.europa.eu/transport-themes/mobility-strategy_en\">Smart and Sustainable Mobility Strategy</a> and the related new EU urban mobility framework, the <a href=\"https://ec.europa.eu/environment/strategy/biodiversity-strategy-2030_en\">Biodiversity Strategy for 2030</a>, <a href=\"https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_en\">Europe’s Digital Decade</a> and the <a href=\"https://ec.europa.eu/clima/policies/adaptation/what_en\">EU Strategy on adaptation to climate change</a>.</p><p>The topics of the Work Programme 2025 reflect the cross-cutting nature of the Cities Mission and most of them have been designed as joint activities with other parts of the Horizon Europe programme, namely Clusters 4, 5, 6, other Missions, co-programmed partnerships, as well as in close coordination with other topics, such as one under the Ocean Mission (HORIZON-MISS-2025-03-OCEAN-05). The envisaged actions will aim at:</p><ul level=\"0\"><li>Coupling circularity and climate mitigation in industrial sites and their cities and regions through a <strong>joint action with </strong><strong>the </strong><strong>Circular Cities and Regions Initiative (CCRI)</strong>;</li><li>Innovative, AI-based solutions for urban planning and management through a <strong>joint action with Horizon Europe Cluster 4</strong>;</li><li>Boosting the transformation towards climate-neutral cities, the net-zero economy and open strategic autonomy through Pre-Commercial Procurement (PCP);</li><li><strong>Joint call “Cancer Mission – Cities Mission”</strong>: Increasing the modal share of walking and cycling to reap health benefits and emission reductions and integrating active mobility and micro-mobility devices, with smart technologies and infrastructure.</li> </ul><p>Not listed in detail in this section of the Work Programme, but co-financed by the Cities Mission budget, is the following topic located in Cluster 5, Destination 5 under the transport-related health and environment part of the programme:</p><ul level=\"0\"><li><strong>Joint topic “Zero-Emission Waterborne Transport (ZEWT) Partnership – Cities Mission”</strong>: Real time monitoring of regulated and non-regulated emissions to enforce emission limits in waterfront cities.</li> </ul><p>Moreover, the prize “Renewable energy technology (RET) solutions in energy communities” in Cluster 5 under other actions, links to the Cities Mission. Energy communities can play a pivotal role in achieving climate neutrality at the city level. Embedding their activities in existing strategic and systematic approaches to climate neutrality in the city, such as the Climate City Contracts<strong>, </strong>will be weighted in the evaluation for the prize.</p><p>The operational capacity of the Mission Platform established through a Framework Partnership Agreement (HORIZON-MISS-2021-CIT-02-03) will be strengthened in order to: (1) reinforce activities aimed at supporting the implementation of the Climate City Contracts (CCCs)<strong> </strong>of the cities selected to participate in the Mission through the Call for Expression of Interest; (2) provide activities targeted at cities falling under the second objective of the Mission as well as cities that applied to the Call for Expression of Interest, committed to the climate-neutrality target by 2030 but were not eventually selected in the final list.</p><p>Support for financial advisory services to be provided to help cities implement their investment strategy for becoming climate-neutral will also be addressed under this Work Programme.</p><p>Proposals should demonstrate, as appropriate to their scope and size, how they internalise the principles of the Cities Mission, notably: (1) the contribution of the action to an overarching strategy aiming at climate-neutrality for cities, (2) the place of the action within a holistic and cross-sectoral approach to climate neutrality, and (3) diversity in terms of geographical location and size of cities.</p><p>Applicants are encouraged to show how their proposals take into account and build upon existing programmes and/or the results of previous R&amp;I projects. Where applicable, they should consider the services offered by the EU-funded European Research Infrastructures<sup>[1]</sup>; these services range from data sets in human behaviour to modelling or experimental techniques.</p><p>Strong synergies contributing to the implementation of the objectives of the Cities Mission is expected also from other relevant Horizon Europe partnerships such as the European Partnership for People-centric Sustainable Built Environment (Built4People) and on Driving Urban Transitions to a Sustainable Future (DUT). Topics under the Cities Mission Work Programme are also relevant for the Cancer Mission, in particular when addressing co-benefits generated by achieving climate-neutrality such as reduced pollution, improved health and wellbeing, increased active mobility contributing then to cancer prevention. Similarly, actions funded under the Cancer Mission focusing on behavioural change can contribute to the objectives of the Cities Mission especially when targeting actions at urban level. In addition, synergies are expected with the <a href=\"https://research-and-innovation.ec.europa.eu/strategy/support-policy-making/shaping-eu-research-and-innovation-policy/new-european-innovation-agenda/new-european-innovation-agenda-roadmap/flagship-3-accelerating-and-strengthening-innovation-european-innovation-ecosystems-across-eu-and_en\">Regional Innovation Valleys</a>, which, in line with the <a href=\"https://research-and-innovation.ec.europa.eu/strategy/support-policy-making/shaping-eu-research-and-innovation-policy/new-european-innovation-agenda_en\">New European Innovation Agenda</a>, bring together less and more innovative regions with a view to addressing the most burning challenges facing the EU, namely reducing the reliance on fossil fuels, increasing global food security, mastering the digital transformation (including cybersecurity), improving healthcare and achieving circularity. Moreover, strong synergies exist with the <a href=\"https://cinea.ec.europa.eu/programmes/life/climate-change-mitigation-and-adaptation_en\">LIFE Programme</a>, a main EU funding instrument for environmental and climate action plans, particularly through its Climate Change Mitigation and Adaptation sub-programme, which aligns closely with the Cities Mission's objectives by supporting innovative efforts to reduce GHG emissions, enhance urban resilience, and promote climate change awareness.</p><p>Proposals should set out a credible pathway to contributing to the Climate-Neutral and Smart Cities Mission, and more specifically to one or several of the following impacts:</p><ul level=\"0\"><li>Increased capacity among European cities, with particular attention to those selected under the Cities Mission, to implement their CCCs and to achieve climate-neutrality.</li><li>Cities are taking action to increase energy and resource efficiency, promote circular economy, encourage urban regeneration and resilience, and they accelerate the uptake of innovative systemic solutions and clean tech in key areas (e.g., energy, mobility, construction, industry, spatial planning, environment, digitization, and data handling).</li><li>Cities are engaging their citizens in the technologies developed and actions taken to achieve climate-neutrality, in order to guarantee acceptance, adherence and adoption, while paying particular attention to vulnerable groups.</li><li>Cities are increasingly employing data and digital technologies to enhance decision-making, improve the efficiency of service delivery, and reduce emissions through open standards and shared technical specifications.</li><li>Cities embrace innovative and inclusive cross-sectorial collaborative governance models, facilitating multi-level and multi-stakeholder engagement in decision-making and joint planning, as well as the CCC implementation in collaboration with citizens and local stakeholders.</li><li>The CCCs identify and pool the demands of the cities in the Cities Mission across sectors, providing scalability and predictability for industry and investors, thus strengthening the competitiveness of European industry and SMEs.</li> </ul><p class=\"eui-u-font-s\">[1] <u> </u><u><a href=\"https://ri-portfolio.esfri.eu/ri-portfolio/table/\">ri-portfolio.esfri.eu/ri-portfolio/table/</a></u></p>"
+          ],
+          "es_SortDate": [
+            "2025-05-06T00:00:00.000+0000"
+          ],
+          "sepTemplate": [
+            "<p>No submission system is open for this topic.</p>"
+          ],
+          "keywords": [
+            "HORIZON-MISS-2026-04-PCP-CIT-01",
+            "HORIZON-MISS-2026-04-PCP",
+            "Competitiveness, innovation, research and development",
+            "Decarbonisation",
+            "Green procurement",
+            "Innovative procurement"
+          ],
+          "sortStatus": [
+            "3"
+          ],
+          "language": [
+            "en"
+          ],
+          "topicConditions": [
+            "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>The specific conditions for actions with PCP/PPI procurements in section H of the General Annexes apply to grants funded under this topic.</p></div><div class=\"eui-u-mt-s\">\n</div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>PCP/PPI procurement costs are eligible.</p></div><div class=\"eui-u-mt-s\"><p>Grants awarded under this topic will be linked to the following action(s):</p><p>HORIZON-MISS-2021-CIT-02-03</p><p>Collaboration with the Cities Mission Platform[[Conceived through the Horizon 2020 project NetZeroCities - Accelerating cities' transition to net zero emissions by 2030, Grant Agreement n. 101036519, and scaled up through the topic <em>HORIZON-MISS-2021-CIT-02-03: Framework Partnership Agreement (FPA) for the Climate-Neutral and Smart Cities Mission Platform.</em>]] is essential and projects must ensure that appropriate provisions for activities and resources aimed at enforcing this collaboration are included in the work plan of the proposal. The collaboration with the Cities Mission Platform must be formalized through a Memorandum of Understanding to be concluded as soon as possible after the project starting date.</p><p>The Cities Mission Platform should in particular support cities with the preparatory work for the PCP and facilitate the upscaling as well as the replicability of the solutions that will be developed through the PCP[[Resources for this are foreseen under the <em>Specific Grant Agreements to the </em>Framework Partnership Agreement (<em>FPA) for the Climate-Neutral and Smart Cities Mission Platform</em>.]].</p><p>The beneficiaries may provide financial support to third parties to provide financial incentives to final end-users to adopt the solutions. The support to third parties can only be provided in the form of grants. The maximum amount to be granted to each third party is EUR 200 000 to ensure the deployment and impact of the project outcomes.</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\">\n</div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-pcp_v8.0_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE PCP)</a></p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-pcp-ppi_v2.0_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE PCP PPI) </a></p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-financial-support-to-third-parties_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on financial support to third parties (HE)</a>&#xa0;</p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-1-general-introduction_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-12-missions_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 – 14. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a> </p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a>&#xa0;</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+          ],
+          "title": [
+            "Boosting the transformation towards climate-neutral cities, the net-zero economy and open strategic autonomy through Pre-Commercial Procurement (PCP)"
+          ],
+          "missionDescription": [
+            "Mission: Climate neutral and smart cities (2025)"
+          ],
+          "type": [
+            "1"
+          ],
+          "esST_checksum": [
+            "70FE633A5245B2B9AC6D04DB1316C3D10AFBBF9F371EE8480AE4C0AA6F91109F"
+          ],
+          "focusArea": [],
+          "typeOfMGAs": [
+            "43027846"
+          ],
+          "esST_FileName": [
+            "file.txt"
+          ],
+          "ccm2Id": [
+            "48335782"
+          ],
+          "callIdentifier": [
+            "HORIZON-MISS-2026-04-PCP"
+          ],
+          "callccm2Id": [
+            "48336680"
+          ],
+          "DATASOURCE": [
+            "SEDIA"
+          ],
+          "REFERENCE": [
+            "48335782TOPICSen"
+          ],
+          "links": [
+            "[]"
+          ],
+          "callTitle": [
+            "Supporting the implementation of the Climate-Neutral and Smart Cities Mission"
+          ],
+          "frameworkProgramme": [
+            "43108390"
+          ],
+          "descriptionByte": [
+            "<span class=\"topicdescriptionkind\">Expected Outcome:</span><p>Projects are expected to contribute to the following outcomes:</p><ul level=\"0\"><li>Public procurers stimulate from demand side the competitive development of market ready innovative solutions to reduce greenhouse gas emissions that can contribute to the transition of local communities towards climate neutrality, whilst strengthening EU open strategic autonomy;</li><li>Public procurers leverage PCP to bring to the market innovative solutions in sectors relevant for climate change mitigation (such as energy efficiency in buildings, production and use of renewable energy, sustainable and smart mobility, digitalisation etc.) and implement those innovative solutions in the participant cities to reduce greenhouse gas emissions;</li><li>Public procurers drive innovation and increase resilience in the supply chain by opening up opportunities for innovative companies established in the European Union's Member States and Horizon Europe Associated Countries, in particular SMEs and Startups, to access the public procurement market and scale up their business;</li><li>Increased opportunities for wide market uptake and economies of scale for the supply side through increased demand for innovative solutions to reduce greenhouse gas emissions at the local level, wide publication of results and where relevant contribution to standardisation, regulation or certification;</li><li>Present the expected greenhouse gas emission reduction in the participating cities by 2030 and 2050, in comparison to a baseline established at the beginning of the project.</li> </ul><span class=\"topicdescriptionkind\">Scope:</span><p>By closing the gap between supply and demand in a way that reinforces EU open strategic autonomy, PCPs can make a key contribution to enhancing the European Union’s economy and competitiveness<sup>[1]</sup>. In order to master the green and digital transition and make our cities climate-neutral and liveable places, European public procurers need to lead by example by procuring more solutions to reduce greenhouse gas emissions. This topic therefore focuses on forward looking procurement of R&amp;D to bring to the market new solutions to reduce greenhouse gas emissions that can increase Europe’s resilience and preparedness to tackle the climate challenge.</p><p>On the road towards climate-neutral cities this topic addresses the lack and fragmentation of public demand for innovative solutions. Europe’s companies, in particular SMEs and Startups, are indispensable in delivering the required innovations. As past experience shows that pre-commercial procurement opens up the procurement market for startups and enables the public sector to address societal challenges more effectively, public procurers should make more strategic use of PCP.</p><p>This topic supports public procurers, specifically local authorities, to collectively implement PCPs to drive innovation from the demand side and open up wider commercialisation opportunities for companies in Europe to take or maintain international leadership in new markets for net-zero technologies that can deliver solutions to reduce greenhouse gas emissions. The aim is to leverage PCP to encourage the development and to provide a first customer reference for the piloting, installation and validation of breakthrough innovations.</p><p>PCP actions target consortia of procurers with similar needs that want to procure together the development of innovative solutions to reduce greenhouse gas emissions in cities. This topic does not provide direct funding to developers, industry or research organisations to perform R&amp;D. They will be able to respond to the call for tenders launched by consortia of procurers funded under this call. Specific guidance on PCP actions and minimum eligibility requirements can be found in General Annexes H of the Horizon Europe work programme.</p><p>Continuous dialogue between demand and supply side is required for the success of PCPs, therefore the effective involvement of end users (e.g. cities teams that would need to adopt climate mitigation solutions, regional structures cooperating with cities on climate mitigation, citizens etc.) needs to be considered in the proposal. Furthermore, to stimulate dialogue with the supply side, public procurers are required to organise an open market consultation before launching the procurement and to promote the call for tenders widely across Europe to potentially interested suppliers.</p><p>Proposals should demonstrate sustainability of the action beyond the life of the project. They should demonstrate how the project is anchored in a clear strategy to provide climate-neutral cities and enhance the economy in a sustainable way through stronger early adoption of innovative solutions to reduce greenhouse gas emissions. Activities covered should include cooperation with policy makers to reinforce the national policy frameworks and mobilise substantial additional national budgets for PCP and innovation procurement in general beyond the scope of the project.</p><p>Involvement of procurement decision makers is needed to ensure that end solution(s) are adopted by local public buyers, increasing the societal impact of the related research activities. Therefore, procurers should declare in the proposal their interest to pursue deployment of solutions resulting from the PCP in case the PCP delivers successful solutions and indicate whether they will (1) procure successful solution(s) as part of the PCP, (2) launch a separate follow-up procurement after the PCP to buy such type of solutions, (3) adopt successful solutions without the need to procure them (e.g. in case of open source solutions), (4) foresee financial or regulatory incentives for others to adopt successful solutions (e.g. in case the final end-users of the solutions are not the procurers but for example citizens). In these four cases, the procurers can implement the project as a fast-track PCP (see general annex H). In the first case, the procurers must foresee the budget in the proposal to purchase at least one solution during the PCP. In the second case, the procurers should include in the proposal a deliverable that prepares the follow-up procurement to purchase such type of solution(s) after the PCP. In the first and third case, the procurers must foresee sufficient time during the project to deploy and validate that the solutions function well after installation. In the fourth case, the procurers can use financial support to third parties to provide financial incentives to final end-users to adopt the solutions, with a maximum budget of EUR 200 000. Projects funded under this topic, which target the higher end of the budget range, should demonstrate a greater degree of ambition in terms of innovation level and/or deployment scope. The selection of the third parties to be supported under the grant will be based on an external review by independent experts of the proposed work.</p><p>Projects funded under this topic should include at least three cities of the 112 selected ones for the EU Mission on Climate-Neutral and Smart Cities<sup>[2]</sup>, and the lead procurer from the buyers group should be one of these 112 cities. In addition to the buyers’ group that will implement the PCP, projects are encouraged to actively cooperate with an additional group of follower cities in the preparation and follow up of the procurement, including possibly also in the testing of solutions, to smoothen faster uptake of solutions to the wider followers group. Collaboration amongst the projects financed under this topic and with the ‘Climate-Neutral Smart cities’ Mission Platform is essential to the increase impact and coherence of the action. Appropriate provisions for activities and resources aimed at enforcing this collaboration should be included in the work plan of the proposal. The Mission Platform will support cities with the preparatory work for the PCP. The Mission Platform will also support the upscaling and replicability of the developed solutions, and the monitoring of the impact of the projects using a common methodology and clearly established indicators. The collaboration with the Mission Platform must be formalised through a Memorandum of Understanding to be concluded as soon as possible after the project starting date. To ensure that the new solutions are appropriately identified, the projects should plan for liaising with the different other Horizon funded projects, partnerships and initiatives that promote innovation in the different domains (such as CCAM Partnership, 2ZERO Partnership, and Built4People Partnership, Circular Cities and Regions, and CIVITAS) to avoid overlaps or contradictory conclusions.</p><p>This action supports the follow-up to the July 2023 Communication on EU Missions assessment<sup>[3]</sup>.</p><p class=\"eui-u-font-s\">[1] General Annex H to the work programme provides for specific conditions for PCP such as place of performance and commercialisation conditions that can require the majority of the procured R&amp;D activities and later commercialisation/production of developed solutions to take place in the European Union's Member States and Associated Countries, as well as the possibility to limit the participation to the PCP procurement to economic operators that are established in the European Union's Member States and Associated Countries if there are sufficient economic operators in these territories that can develop the requested solutions. These conditions apply to this topic.</p><p class=\"eui-u-font-s\">[2] The EU Mission on Climate-Neutral and Smart Cities aims to deliver 100 climate-neutral and smart cities by 2030 and ensure that these cities act as experimentation and innovation hubs to enable all European cities to follow suit by 2050. On 28 April 2022, the Commission announced the 100 EU cities that will participate in the Mission. In addition, 12 cities have been selected from countries associated or expected to be associated the Horizon Europe programme.</p><p class=\"eui-u-font-s\">[3] COM(2023) 457 final and SWD(2023) 260 final</p>"
+          ],
+          "identifier": [
+            "HORIZON-MISS-2026-04-PCP-CIT-01"
+          ],
+          "es_ContentType": [
+            "text/plain"
+          ],
+          "programmeDivision": [
+            "43108541",
+            "43108390",
+            "43120821"
+          ],
+          "crossCuttingPriorities": [
+            "DigitalAgenda",
+            "InnovationProcurement",
+            "AI"
+          ],
+          "programmePeriod": [
+            "2021 - 2027"
+          ],
+          "esDA_FirstIngestDate": [
+            "2025-06-06T12:02:26.792+0200"
+          ],
+          "deadlineDate": [
+            "2026-01-20T00:00:00.000+0000"
+          ],
+          "esDA_IngestDate": [
+            "2026-01-27T09:13:42.494+0100"
+          ],
+          "typesOfAction": [
+            "HORIZON Pre-commercial Procurement"
+          ],
+          "es_Combine": [
+            "3"
+          ],
+          "url": [
+            "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-04-PCP-CIT-01"
+          ],
+          "esST_URL": [
+            "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-04-PCP-CIT-01"
+          ],
+          "tags": [
+            "Innovation Procurement",
+            "Pre-Commercial Procurement",
+            "climate-neutral cities",
+            "competitiveness",
+            "decarbonisation",
+            "net-zero technologies",
+            "open strategic autonomy"
+          ],
+          "esDA_QueueDate": [
+            "2026-01-27T09:13:42.471+0100"
+          ],
+          "mission": [
+            "46772546"
+          ],
+          "allowPartnerSearch": [
+            "true"
+          ],
+          "missionGroup": [
+            "45355175"
+          ],
+          "actions": [
+            "[{\"types\":[{\"typeOfAction\":\"HORIZON-PCP HORIZON Pre-commercial Procurement\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"plannedOpeningDate\":\"2025-05-06\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-01-20\"]}]"
+          ],
+          "budgetOverview": [
+            "{\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"110719\":[{\"action\":\"HORIZON-MISS-2026-04-PCP-CIT-01 - HORIZON-PCP HORIZON Pre-commercial Procurement\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":12000000,\"budgetYearMap\":{\"2025\":\"37000000\"},\"plannedOpeningDate\":\"2025-05-06\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-01-20\"]}]}}"
+          ],
+          "startDate": [
+            "2025-05-06T00:00:00.000+0000"
+          ],
+          "deadlineModel": [
+            "single-stage"
+          ],
+          "specificObjective": [],
+          "status": [
+            "31094503"
+          ],
+          "supportInfo": [
+            "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+          ]
+        },
+        "enrichedMetadata": {},
+        "children": [],
+        "highlightedFragments": []
+      },
+      "unique_key": "|HORIZON-MISS-2026-04-PCP-CIT-01|48336680|en",
+      "programme": "HORIZON",
+      "group_value": "PCP-CIT"
+    }
+  ]
+}

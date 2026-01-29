@@ -16,10 +16,8 @@ Writes to <out-dir>/<programme>.grouped.json (e.g., DEP.grouped.json)
 and optionally destination_summaries_<programme>.json.
 
 Important for DEP/DIGITAL:
-- `metadata.identifier` is NOT unique across Search API records (often only ~37 unique identifiers
-  across >100 records). Do NOT dedupe by `identifier` alone, otherwise calls are silently dropped.
-- We therefore dedupe (if needed) by `unique_key` produced by build_calls_grouped.py, or by a
-  fallback composite key derived from raw metadata.
+- `metadata.identifier` is NOT unique across Search API records.
+- We therefore dedupe (if needed) by `unique_key` produced by build_calls_grouped.py, or by a fallback composite key derived from raw metadata.
 """
 
 from __future__ import annotations

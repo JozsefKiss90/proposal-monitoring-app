@@ -1,24 +1,24 @@
 #!/usr/bin/env python3
 """
-Extract identifiers from a FACET API response body.
+extract_horizon_cl_calls.py
 
-Preserves the original behaviour for Horizon Europe Clusters (CL1–CL6):
-- CL2–CL6 topic IDs are extracted directly from the FACET JSON:
-    HORIZON-CLx-YYYY-NN-...
-- CL1 (Health) is injected from a mapping JSON because FACET may omit it:
-    HORIZON-HLTH-YYYY-NN-...
+Extract identifiers from a FACET response body JSON.
 
-Supports Pillar 1 IDs (ERC, MSCA, INFRA):
-  --pillar1
+Default (cluster mode: no --pillar1/--pillar3):
+- Writes Pillar 2 cluster + mission IDs to --out
+  (CL2–CL6 topics, CL1 HLTH topics, Missions)
+- Writes WIDERA IDs to a SEPARATE file (NOT Pillar 2)
+  - --widera-out if provided
+  - else auto-derived from --out: insert ".widera" before ".json"
 
-Adds Pillar 3 IDs (EIC, EIE):
-  --pillar3 [--eic] [--eie]
-  If --pillar3 is set and neither --eic nor --eie is provided, BOTH are included by default.
+Pillar 1:
+- ERC / MSCA / INFRA IDs
 
-EIT is intentionally omitted (per project decision: not open / not available in portal).
+Pillar 3:
+- EIC / EIE IDs (EIT intentionally omitted)
 
-Union options:
-- --include-clusters can be used with --pillar1 or --pillar3 to union pillar IDs + clusters.
+Union option:
+- --include-clusters unions cluster-mode IDs into pillar modes (still excluding WIDERA from main out)
 """
 
 from __future__ import annotations
@@ -42,12 +42,6 @@ def walk_strings(obj: Any) -> Iterable[str]:
 
 
 def load_destination_call_ids_map(path: str) -> dict[str, list[str]]:
-    """
-    Supports both structures:
-    1) dict: { "Destination ...": ["CALL1", "CALL2"] }
-    2) list: [ { "destination": "...", "call_ids": [...] }, ... ]
-    Returns dict[dest] -> list[call_id]
-    """
     data = json.loads(Path(path).read_text(encoding="utf-8"))
     if isinstance(data, dict):
         out: dict[str, list[str]] = {}
@@ -55,7 +49,6 @@ def load_destination_call_ids_map(path: str) -> dict[str, list[str]]:
             if isinstance(v, list):
                 out[str(k)] = [str(x) for x in v if isinstance(x, str)]
         return out
-
     if isinstance(data, list):
         out: dict[str, list[str]] = {}
         for row in data:
@@ -66,22 +59,24 @@ def load_destination_call_ids_map(path: str) -> dict[str, list[str]]:
             if dest and isinstance(call_ids, list):
                 out[dest] = [str(x) for x in call_ids if isinstance(x, str)]
         return out
-
     return {}
 
 
 # -------------------------
-# Cluster extraction (original behaviour)
+# Cluster extraction (Pillar 2)
 # -------------------------
 
 def extract_topic_ids_from_facet(data: Any, years: Set[str], clusters: Set[str]) -> Set[str]:
     """
-    Extract cluster topic IDs present in FACET:
-      HORIZON-CL{cluster}-{year}-{2digitcall}-<topic...>
+    Extract CL2–CL6 topic IDs from FACET:
+      HORIZON-CL{2..6}-YYYY-NN-...
     """
-    year_re = "|".join(sorted(map(re.escape, years)))
-    cl_re = "|".join(sorted(map(re.escape, clusters)))
+    clusters_wo_1 = sorted({c for c in clusters if c != "1"})
+    if not clusters_wo_1:
+        return set()
 
+    year_re = "|".join(sorted(map(re.escape, years)))
+    cl_re = "|".join(sorted(map(re.escape, clusters_wo_1)))
     pat = re.compile(rf"^HORIZON-CL(?:{cl_re})-(?:{year_re})-\d{{2}}-[A-Za-z0-9][A-Za-z0-9-]*$")
 
     out: Set[str] = set()
@@ -92,17 +87,28 @@ def extract_topic_ids_from_facet(data: Any, years: Set[str], clusters: Set[str])
     return out
 
 
-def extract_cl1_ids_from_map(map_path: str, years: Set[str]) -> Set[str]:
+def extract_cl1_ids_from_facet(data: Any, years: Set[str]) -> Set[str]:
     """
-    Inject CL1 IDs from map:
+    Extract CL1 (Health) topic IDs from FACET:
       HORIZON-HLTH-YYYY-NN-...
     """
+    year_re = "|".join(sorted(map(re.escape, years)))
+    pat = re.compile(rf"^HORIZON-HLTH-(?:{year_re})-\d{{2}}-[A-Za-z0-9][A-Za-z0-9-]*$")
+
+    out: Set[str] = set()
+    for s in walk_strings(data):
+        s2 = s.strip()
+        if pat.match(s2):
+            out.add(s2)
+    return out
+
+
+def extract_cl1_ids_from_map(map_path: str, years: Set[str]) -> Set[str]:
     if not map_path:
         return set()
 
     dest_map = load_destination_call_ids_map(map_path)
     out: Set[str] = set()
-
     pat = re.compile(r"^HORIZON-HLTH-(\d{4})-\d{2}-[A-Za-z0-9][A-Za-z0-9-]*$")
 
     for _, call_ids in dest_map.items():
@@ -116,29 +122,51 @@ def extract_cl1_ids_from_map(map_path: str, years: Set[str]) -> Set[str]:
             year = m.group(1)
             if year in years:
                 out.add(c)
+    return out
 
+
+def extract_missions_ids_from_facet(data: Any, years: Set[str]) -> Set[str]:
+    """
+    Extract Horizon Missions IDs from FACET:
+      HORIZON-MISS-YYYY-...
+    """
+    year_re = "|".join(sorted(map(re.escape, years)))
+    pat = re.compile(rf"^HORIZON-MISS-(?:{year_re})-[A-Za-z0-9][A-Za-z0-9-]*$")
+
+    out: Set[str] = set()
+    for s in walk_strings(data):
+        s2 = s.strip()
+        if pat.match(s2):
+            out.add(s2)
     return out
 
 
 # -------------------------
-# Pillar 1 extraction
+# WIDERA (standalone HE part; NOT pillar 2)
+# -------------------------
+
+def extract_widera_ids_from_facet(data: Any, years: Set[str]) -> Set[str]:
+    """
+    Extract WIDERA IDs from FACET:
+      HORIZON-WIDERA-YYYY-...
+    """
+    year_re = "|".join(sorted(map(re.escape, years)))
+    pat = re.compile(rf"^HORIZON-WIDERA-(?:{year_re})-[A-Za-z0-9][A-Za-z0-9-]*$")
+
+    out: Set[str] = set()
+    for s in walk_strings(data):
+        s2 = s.strip()
+        if pat.match(s2):
+            out.add(s2)
+    return out
+
+
+# -------------------------
+# Pillar 1
 # -------------------------
 
 def extract_pillar1_ids_from_facet(data: Any, years: Set[str]) -> Set[str]:
-    """
-    Extract Pillar 1 IDs from FACET:
-      - ERC: (ERC-YYYY-...) or (HORIZON-ERC-YYYY-...)
-      - MSCA: HORIZON-MSCA-YYYY-...
-      - INFRA: HORIZON-INFRA-YYYY-...
-
-    Patterns are intentionally permissive after the year to handle real ID shapes like:
-      HORIZON-MSCA-2026-DN-01
-      HORIZON-MSCA-2027-CITIZENS-01-01
-      HORIZON-INFRA-2026-DEV-01-01
-      HORIZON-INFRA-2026-TECH-01-02
-    """
     year_re = "|".join(sorted(map(re.escape, years)))
-
     erc_pat = re.compile(rf"^(?:HORIZON-ERC|ERC)-(?:{year_re})-[A-Za-z0-9][A-Za-z0-9-]*$")
     msca_pat = re.compile(rf"^HORIZON-MSCA-(?:{year_re})-[A-Za-z0-9][A-Za-z0-9-]*$")
     infra_pat = re.compile(rf"^HORIZON-INFRA-(?:{year_re})-[A-Za-z0-9][A-Za-z0-9-]*$")
@@ -154,24 +182,11 @@ def extract_pillar1_ids_from_facet(data: Any, years: Set[str]) -> Set[str]:
 
 
 # -------------------------
-# Pillar 3 extraction (EIC, EIE; omit EIT)
+# Pillar 3 (EIC/EIE only)
 # -------------------------
 
-def extract_pillar3_ids_from_facet(
-    data: Any,
-    years: Set[str],
-    include_eic: bool,
-    include_eie: bool,
-) -> Set[str]:
-    """
-    Extract Pillar 3 IDs from FACET:
-      - EIC: HORIZON-EIC-YYYY-...
-      - EIE: HORIZON-EIE-YYYY-...
-
-    Note: EIT intentionally omitted.
-    """
+def extract_pillar3_ids_from_facet(data: Any, years: Set[str], include_eic: bool, include_eie: bool) -> Set[str]:
     year_re = "|".join(sorted(map(re.escape, years)))
-
     eic_pat = re.compile(rf"^HORIZON-EIC-(?:{year_re})-[A-Za-z0-9][A-Za-z0-9-]*$")
     eie_pat = re.compile(rf"^HORIZON-EIE-(?:{year_re})-[A-Za-z0-9][A-Za-z0-9-]*$")
 
@@ -189,54 +204,46 @@ def extract_pillar3_ids_from_facet(
     return out
 
 
-# -------------------------
-# CLI
-# -------------------------
+def derive_widera_out_path(out_path: Path) -> Path:
+    # Insert ".widera" before .json (or append if no suffix)
+    if out_path.suffix.lower() == ".json":
+        return out_path.with_name(out_path.stem + ".widera.json")
+    return out_path.with_name(out_path.name + ".widera.json")
+
+
+def write_ids(path: Path, ids: Set[str]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(sorted(ids), indent=2, ensure_ascii=False), encoding="utf-8")
+
 
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--input", required=True, help="FACET response body JSON (e.g. response_body_2026.json)")
-    ap.add_argument("--out", required=True, help="Output JSON path (list of extracted IDs)")
+    ap.add_argument("--out", required=True, help="Main output JSON path (clusters/missions OR pillar output)")
     ap.add_argument("--years", nargs="+", default=["2026", "2027"])
 
-    # Clusters (kept)
-    ap.add_argument("--clusters", nargs="+", default=["1", "2", "3", "4", "5", "6"])
+    # NEW: separate WIDERA output
     ap.add_argument(
-        "--cl1-map",
+        "--widera-out",
         default="",
-        help="Path to c1_destinations_call_ids.json (inject CL1 HLTH IDs when FACET omits them)",
+        help="Output JSON path for WIDERA IDs (standalone part of Horizon Europe; not pillar 2). "
+             "If omitted, auto-derived from --out.",
     )
+
+    # Clusters (Pillar 2)
+    ap.add_argument("--clusters", nargs="+", default=["1", "2", "3", "4", "5", "6"])
+    ap.add_argument("--cl1-map", default="", help="Optional: CL1 destination map json (union-inject HLTH IDs)")
 
     # Pillar 1
-    ap.add_argument(
-        "--pillar1",
-        action="store_true",
-        help="Extract Pillar 1 identifiers (ERC, MSCA, INFRA).",
-    )
+    ap.add_argument("--pillar1", action="store_true", help="Extract Pillar 1 identifiers (ERC, MSCA, INFRA).")
 
     # Pillar 3
-    ap.add_argument(
-        "--pillar3",
-        action="store_true",
-        help="Extract Pillar 3 identifiers (EIC, EIE).",
-    )
-    ap.add_argument(
-        "--eic",
-        action="store_true",
-        help="With --pillar3: include EIC identifiers (HORIZON-EIC-YYYY-...).",
-    )
-    ap.add_argument(
-        "--eie",
-        action="store_true",
-        help="With --pillar3: include EIE identifiers (HORIZON-EIE-YYYY-...).",
-    )
+    ap.add_argument("--pillar3", action="store_true", help="Extract Pillar 3 identifiers (EIC, EIE).")
+    ap.add_argument("--eic", action="store_true", help="With --pillar3: include EIC IDs.")
+    ap.add_argument("--eie", action="store_true", help="With --pillar3: include EIE IDs.")
 
     # Union option
-    ap.add_argument(
-        "--include-clusters",
-        action="store_true",
-        help="When used with --pillar1 or --pillar3, also include clusters (union).",
-    )
+    ap.add_argument("--include-clusters", action="store_true", help="With pillar modes, union-inject clusters/missions.")
 
     args = ap.parse_args()
 
@@ -245,49 +252,52 @@ def main() -> int:
 
     data = json.loads(Path(args.input).read_text(encoding="utf-8"))
 
+    # Always extract WIDERA separately (standalone HE part)
+    widera_ids = extract_widera_ids_from_facet(data, years=years)
+
+    out_path = Path(args.out)
+    widera_out_path = Path(args.widera_out) if args.widera_out else derive_widera_out_path(out_path)
+
+    # Main ids (pillar2 clusters/missions or pillar1/pillar3 output)
     ids: Set[str] = set()
 
-    # Determine mode
+    def add_clusters_and_missions() -> None:
+        nonlocal ids
+        ids |= extract_topic_ids_from_facet(data, years=years, clusters=clusters)
+        if "1" in clusters:
+            ids |= extract_cl1_ids_from_facet(data, years=years)
+            if args.cl1_map:
+                ids |= extract_cl1_ids_from_map(args.cl1_map, years=years)
+        ids |= extract_missions_ids_from_facet(data, years=years)
+        # NOTE: WIDERA deliberately NOT included in ids
+
     if args.pillar1 or args.pillar3:
         if args.pillar1:
             ids |= extract_pillar1_ids_from_facet(data, years=years)
 
         if args.pillar3:
-            # Default behaviour: if user didn't specify any subcomponent flags, include both.
             include_eic = args.eic or (not args.eic and not args.eie)
             include_eie = args.eie or (not args.eic and not args.eie)
-            ids |= extract_pillar3_ids_from_facet(
-                data,
-                years=years,
-                include_eic=include_eic,
-                include_eie=include_eie,
-            )
+            ids |= extract_pillar3_ids_from_facet(data, years=years, include_eic=include_eic, include_eie=include_eie)
 
         if args.include_clusters:
-            ids |= extract_topic_ids_from_facet(data, years=years, clusters=clusters)
-
-            if "1" in clusters:
-                if args.cl1_map:
-                    ids |= extract_cl1_ids_from_map(args.cl1_map, years=years)
-                else:
-                    print("[WARN] CL1 requested but --cl1-map not provided; CL1 (HORIZON-HLTH-...) may be missing.")
+            add_clusters_and_missions()
     else:
-        # Default cluster-only mode (original behaviour)
-        ids |= extract_topic_ids_from_facet(data, years=years, clusters=clusters)
+        # Default: cluster mode (pillar 2 clusters + missions)
+        add_clusters_and_missions()
 
-        if "1" in clusters:
-            if args.cl1_map:
-                ids |= extract_cl1_ids_from_map(args.cl1_map, years=years)
-            else:
-                print("[WARN] CL1 requested but --cl1-map not provided; CL1 (HORIZON-HLTH-...) may be missing.")
+    # Write outputs
+    write_ids(out_path, ids)
+    print(f"OK: extracted {len(ids)} IDs -> {out_path} (NO WIDERA)")
 
-    out_path = Path(args.out)
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(sorted(ids), indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"OK: extracted {len(ids)} IDs -> {out_path}")
+    if widera_ids:
+        write_ids(widera_out_path, widera_ids)
+        print(f"OK: extracted {len(widera_ids)} WIDERA IDs -> {widera_out_path}")
+    else:
+        print("OK: no WIDERA IDs found for the selected years")
+
     return 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
